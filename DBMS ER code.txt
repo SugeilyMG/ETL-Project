@@ -1,0 +1,60 @@
+CREATE TABLE "Senate_county_candidate" (
+  "State_name" <type>,
+  "County_name" <type>,
+  "Candidate_name" <type>,
+  "Candidate_party_name" <type>,
+  "Reporting_votes" <type>,
+  "Won race" <type>
+);
+
+CREATE TABLE "Governors_county_candidate" (
+  "State_name" <type>,
+  "County_name" <type>,
+  "Candidate_name" <type>,
+  "Candidate_party_name" <type>,
+  "Reporting_votes" <type>,
+  "Won race" <type>
+);
+
+CREATE TABLE "President_county_candidate" (
+  "State_name" <type>,
+  "County_name" <type>,
+  "Candidate_name" <type>,
+  "Candidate_party_name" <type>,
+  "Reporting_votes" <type>,
+  "Won race" <type>
+);
+
+CREATE TABLE "Top 10 events associated with increased engagement in each party" (
+  "Party" <type>,
+  "Start Date" <type>,
+  "End Date" <type>,
+  "Average Percentage Change" <type>,
+  "Percentage Change in Facebook reactions" <type>,
+  "Percentage Change in Facebook shares" <type>,
+  "Percentage Change in Twitter Favorites" <type>,
+  "Percentage Change in Twitter Retweets" <type>
+);
+
+CREATE TABLE "Top 100 terms used most exclusively by members of each party" (
+  "Term" <type>,
+  "Party" <type>,
+  "Positive-to-Negative Ratio" <type>,
+  "Proportion of Party" <type>,
+  "Proportion of Other Party" <type>,
+  "" <type>
+);
+
+CREATE TABLE "Top 100 terms associated with engagement boosts in each party" (
+  "Term" <type>,
+  "Year" <type>,
+  "Party" <type>,
+  "Average Percentage Effect" <type>,
+  "Number of Facebook Posts" <type>,
+  "Percentage Effect on Facebook Reactions" <type>,
+  "Percentage Effect on Facebook shares" <type>,
+  "Number of tweets" <type>,
+  "Percentage Effect on twitter Favorites" <type>,
+  "Percentage Effect on twitter Retweets" <type>
+);
+
