@@ -1,4 +1,4 @@
-Term,Year,Party,Average Percentage Effect,Number of Facebook Posts,Percentage Effect on Facebook Reactions,Percentage Effect on Facebook Shares,Number of Tweets,Percentage Effect on Twitter Favorites,Percentage Effect on Twitter Retweets
+Term,Year,Party,Average%_Effect,Facebook_Posts,%Facebook_Reactions,%Facebook_Shares,Number_Tweets,%Effect_TwitterFavorites,%Effect_TwitterRetweets
 adam schiff,2019,R,5.621,981,1.963,2.483,903,8.198,9.839
 schiff,2019,R,2.119,1265,0.897,1.094,1638,2.798,3.6860000000000004
 impeachment inquiry,2019,R,2.094,1073,0.9279999999999999,1.095,757,2.987,3.366
