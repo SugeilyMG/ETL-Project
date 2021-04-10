@@ -1,0 +1,2051 @@
+state,county,candidate,Party,votes,won
+Delaware,Kent County,John Carney,D,44352,True
+Delaware,Kent County,Julianne Murray,R,39332,False
+Delaware,New Castle County,John Carney,D,191678,True
+Delaware,New Castle County,Julianne Murray,R,82545,False
+Delaware,Sussex County,Julianne Murray,R,68435,True
+Delaware,Sussex County,John Carney,D,56873,False
+Indiana,Adams County,Eric Holcomb,R,9441,True
+Indiana,Adams County,Woody Myers,D,2143,False
+Indiana,Allen County,Eric Holcomb,R,98406,True
+Indiana,Allen County,Woody Myers,D,53895,False
+Indiana,Bartholomew County,Eric Holcomb,R,21959,True
+Indiana,Bartholomew County,Woody Myers,D,9013,False
+Indiana,Benton County,Eric Holcomb,R,2815,True
+Indiana,Benton County,Woody Myers,D,671,False
+Indiana,Blackford County,Eric Holcomb,R,3333,True
+Indiana,Blackford County,Woody Myers,D,933,False
+Indiana,Boone County,Eric Holcomb,R,23737,True
+Indiana,Boone County,Woody Myers,D,9661,False
+Indiana,Brown County,Eric Holcomb,R,4953,True
+Indiana,Brown County,Woody Myers,D,2381,False
+Indiana,Carroll County,Eric Holcomb,R,6077,True
+Indiana,Carroll County,Woody Myers,D,1569,False
+Indiana,Cass County,Eric Holcomb,R,8833,True
+Indiana,Cass County,Woody Myers,D,3373,False
+Indiana,Clark County,Eric Holcomb,R,34669,True
+Indiana,Clark County,Woody Myers,D,19077,False
+Indiana,Clay County,Eric Holcomb,R,8164,True
+Indiana,Clay County,Woody Myers,D,1780,False
+Indiana,Clinton County,Eric Holcomb,R,7971,True
+Indiana,Clinton County,Woody Myers,D,2406,False
+Indiana,Crawford County,Eric Holcomb,R,3064,True
+Indiana,Crawford County,Woody Myers,D,1242,False
+Indiana,Daviess County,Eric Holcomb,R,8313,True
+Indiana,Daviess County,Woody Myers,D,1531,False
+Indiana,Dearborn County,Eric Holcomb,R,18353,True
+Indiana,Dearborn County,Woody Myers,D,4559,False
+Indiana,Decatur County,Eric Holcomb,R,7911,True
+Indiana,Decatur County,Woody Myers,D,1562,False
+Indiana,DeKalb County,Eric Holcomb,R,13042,True
+Indiana,DeKalb County,Woody Myers,D,3293,False
+Indiana,Delaware County,Eric Holcomb,R,26829,True
+Indiana,Delaware County,Woody Myers,D,15638,False
+Indiana,Dubois County,Eric Holcomb,R,14403,True
+Indiana,Dubois County,Woody Myers,D,4586,False
+Indiana,Elkhart County,Eric Holcomb,R,46223,True
+Indiana,Elkhart County,Woody Myers,D,20512,False
+Indiana,Fayette County,Eric Holcomb,R,6933,True
+Indiana,Fayette County,Woody Myers,D,1707,False
+Indiana,Floyd County,Eric Holcomb,R,24972,True
+Indiana,Floyd County,Woody Myers,D,14948,False
+Indiana,Fountain County,Eric Holcomb,R,5189,True
+Indiana,Fountain County,Woody Myers,D,1150,False
+Indiana,Franklin County,Eric Holcomb,R,8633,True
+Indiana,Franklin County,Woody Myers,D,1690,False
+Indiana,Fulton County,Eric Holcomb,R,5436,True
+Indiana,Fulton County,Woody Myers,D,1603,False
+Indiana,Gibson County,Eric Holcomb,R,11607,True
+Indiana,Gibson County,Woody Myers,D,2990,False
+Indiana,Grant County,Eric Holcomb,R,16847,True
+Indiana,Grant County,Woody Myers,D,5849,False
+Indiana,Greene County,Eric Holcomb,R,9579,True
+Indiana,Greene County,Woody Myers,D,2511,False
+Indiana,Hamilton County,Eric Holcomb,R,117749,True
+Indiana,Hamilton County,Woody Myers,D,58714,False
+Indiana,Hancock County,Eric Holcomb,R,25647,True
+Indiana,Hancock County,Woody Myers,D,8538,False
+Indiana,Harrison County,Eric Holcomb,R,14083,True
+Indiana,Harrison County,Woody Myers,D,4514,False
+Indiana,Hendricks County,Eric Holcomb,R,50697,True
+Indiana,Hendricks County,Woody Myers,D,23179,False
+Indiana,Henry County,Eric Holcomb,R,12491,True
+Indiana,Henry County,Woody Myers,D,4128,False
+Indiana,Howard County,Eric Holcomb,R,24359,True
+Indiana,Howard County,Woody Myers,D,9871,False
+Indiana,Huntington County,Eric Holcomb,R,11759,True
+Indiana,Huntington County,Woody Myers,D,2804,False
+Indiana,Jackson County,Eric Holcomb,R,11714,True
+Indiana,Jackson County,Woody Myers,D,3234,False
+Indiana,Jasper County,Eric Holcomb,R,10378,True
+Indiana,Jasper County,Woody Myers,D,2904,False
+Indiana,Jay County,Eric Holcomb,R,5227,True
+Indiana,Jay County,Woody Myers,D,1240,False
+Indiana,Jefferson County,Eric Holcomb,R,9076,True
+Indiana,Jefferson County,Woody Myers,D,3711,False
+Indiana,Jennings County,Eric Holcomb,R,7547,True
+Indiana,Jennings County,Woody Myers,D,1930,False
+Indiana,Johnson County,Eric Holcomb,R,47467,True
+Indiana,Johnson County,Woody Myers,D,17630,False
+Indiana,Knox County,Eric Holcomb,R,11210,True
+Indiana,Knox County,Woody Myers,D,2809,False
+Indiana,Kosciusko County,Eric Holcomb,R,23029,True
+Indiana,Kosciusko County,Woody Myers,D,5784,False
+Indiana,LaGrange County,Eric Holcomb,R,7520,True
+Indiana,LaGrange County,Woody Myers,D,1690,False
+Indiana,Lake County,Woody Myers,D,112352,True
+Indiana,Lake County,Eric Holcomb,R,94841,False
+Indiana,LaPorte County,Eric Holcomb,R,26129,True
+Indiana,LaPorte County,Woody Myers,D,18133,False
+Indiana,Lawrence County,Eric Holcomb,R,13371,True
+Indiana,Lawrence County,Woody Myers,D,3616,False
+Indiana,Madison County,Eric Holcomb,R,29434,True
+Indiana,Madison County,Woody Myers,D,14254,False
+Indiana,Marion County,Woody Myers,D,203475,True
+Indiana,Marion County,Eric Holcomb,R,152405,False
+Indiana,Marshall County,Eric Holcomb,R,13145,True
+Indiana,Marshall County,Woody Myers,D,4025,False
+Indiana,Martin County,Eric Holcomb,R,3232,True
+Indiana,Martin County,Woody Myers,D,709,False
+Indiana,Miami County,Eric Holcomb,R,9208,True
+Indiana,Miami County,Woody Myers,D,2439,False
+Indiana,Monroe County,Woody Myers,D,33033,True
+Indiana,Monroe County,Eric Holcomb,R,24605,False
+Indiana,Montgomery County,Eric Holcomb,R,10587,True
+Indiana,Montgomery County,Woody Myers,D,2812,False
+Indiana,Morgan County,Eric Holcomb,R,22161,True
+Indiana,Morgan County,Woody Myers,D,5602,False
+Indiana,Newton County,Eric Holcomb,R,4358,True
+Indiana,Newton County,Woody Myers,D,1148,False
+Indiana,Noble County,Eric Holcomb,R,12498,True
+Indiana,Noble County,Woody Myers,D,3237,False
+Indiana,Ohio County,Eric Holcomb,R,2210,True
+Indiana,Ohio County,Woody Myers,D,641,False
+Indiana,Orange County,Eric Holcomb,R,5591,True
+Indiana,Orange County,Woody Myers,D,1952,False
+Indiana,Owen County,Eric Holcomb,R,5857,True
+Indiana,Owen County,Woody Myers,D,1852,False
+Indiana,Parke County,Eric Holcomb,R,4766,True
+Indiana,Parke County,Woody Myers,D,1127,False
+Indiana,Perry County,Eric Holcomb,R,5523,True
+Indiana,Perry County,Woody Myers,D,2518,False
+Indiana,Pike County,Eric Holcomb,R,4199,True
+Indiana,Pike County,Woody Myers,D,1092,False
+Indiana,Porter County,Eric Holcomb,R,45996,True
+Indiana,Porter County,Woody Myers,D,33397,False
+Indiana,Posey County,Eric Holcomb,R,9648,True
+Indiana,Posey County,Woody Myers,D,2773,False
+Indiana,Pulaski County,Eric Holcomb,R,3874,True
+Indiana,Pulaski County,Woody Myers,D,1019,False
+Indiana,Putnam County,Eric Holcomb,R,9375,True
+Indiana,Putnam County,Woody Myers,D,2876,False
+Indiana,Randolph County,Eric Holcomb,R,7399,True
+Indiana,Randolph County,Woody Myers,D,1863,False
+Indiana,Ripley County,Eric Holcomb,R,9518,True
+Indiana,Ripley County,Woody Myers,D,2231,False
+Indiana,Rush County,Eric Holcomb,R,4949,True
+Indiana,Rush County,Woody Myers,D,1215,False
+Indiana,St. Joseph County,Eric Holcomb,R,60696,True
+Indiana,St. Joseph County,Woody Myers,D,48610,False
+Indiana,Scott County,Eric Holcomb,R,6062,True
+Indiana,Scott County,Woody Myers,D,2295,False
+Indiana,Shelby County,Eric Holcomb,R,12269,True
+Indiana,Shelby County,Woody Myers,D,3499,False
+Indiana,Spencer County,Eric Holcomb,R,7272,True
+Indiana,Spencer County,Woody Myers,D,2461,False
+Indiana,Starke County,Eric Holcomb,R,6730,True
+Indiana,Starke County,Woody Myers,D,2026,False
+Indiana,Steuben County,Eric Holcomb,R,11407,True
+Indiana,Steuben County,Woody Myers,D,2939,False
+Indiana,Sullivan County,Eric Holcomb,R,6009,True
+Indiana,Sullivan County,Woody Myers,D,1550,False
+Indiana,Switzerland County,Eric Holcomb,R,2846,True
+Indiana,Switzerland County,Woody Myers,D,822,False
+Indiana,Tippecanoe County,Eric Holcomb,R,37979,True
+Indiana,Tippecanoe County,Woody Myers,D,26179,False
+Indiana,Tipton County,Eric Holcomb,R,5169,True
+Indiana,Tipton County,Woody Myers,D,1200,False
+Indiana,Union County,Eric Holcomb,R,2533,True
+Indiana,Union County,Woody Myers,D,603,False
+Indiana,Vanderburgh County,Eric Holcomb,R,46490,True
+Indiana,Vanderburgh County,Woody Myers,D,27242,False
+Indiana,Vermillion County,Eric Holcomb,R,4938,True
+Indiana,Vermillion County,Woody Myers,D,1531,False
+Indiana,Vigo County,Eric Holcomb,R,25917,True
+Indiana,Vigo County,Woody Myers,D,13999,False
+Indiana,Wabash County,Eric Holcomb,R,9111,True
+Indiana,Wabash County,Woody Myers,D,2421,False
+Indiana,Warren County,Eric Holcomb,R,3009,True
+Indiana,Warren County,Woody Myers,D,672,False
+Indiana,Warrick County,Eric Holcomb,R,22703,True
+Indiana,Warrick County,Woody Myers,D,9074,False
+Indiana,Washington County,Eric Holcomb,R,7919,True
+Indiana,Washington County,Woody Myers,D,2408,False
+Indiana,Wayne County,Eric Holcomb,R,16914,True
+Indiana,Wayne County,Woody Myers,D,7534,False
+Indiana,Wells County,Eric Holcomb,R,9371,True
+Indiana,Wells County,Woody Myers,D,1967,False
+Indiana,White County,Eric Holcomb,R,7334,True
+Indiana,White County,Woody Myers,D,1978,False
+Indiana,Whitley County,Eric Holcomb,R,11522,True
+Indiana,Whitley County,Woody Myers,D,2738,False
+Missouri,Adair County,Mike Parson,R,6597,True
+Missouri,Adair County,Nicole Galloway,D,3546,False
+Missouri,Andrew County,Mike Parson,R,7195,True
+Missouri,Andrew County,Nicole Galloway,D,2356,False
+Missouri,Atchison County,Mike Parson,R,2171,True
+Missouri,Atchison County,Nicole Galloway,D,533,False
+Missouri,Audrain County,Mike Parson,R,7643,True
+Missouri,Audrain County,Nicole Galloway,D,2663,False
+Missouri,Barry County,Mike Parson,R,12356,True
+Missouri,Barry County,Nicole Galloway,D,2841,False
+Missouri,Barton County,Mike Parson,R,5114,True
+Missouri,Barton County,Nicole Galloway,D,816,False
+Missouri,Bates County,Mike Parson,R,6410,True
+Missouri,Bates County,Nicole Galloway,D,1762,False
+Missouri,Benton County,Mike Parson,R,8017,True
+Missouri,Benton County,Nicole Galloway,D,2179,False
+Missouri,Bollinger County,Mike Parson,R,5063,True
+Missouri,Bollinger County,Nicole Galloway,D,773,False
+Missouri,Boone County,Nicole Galloway,D,48056,True
+Missouri,Boone County,Mike Parson,R,40478,False
+Missouri,Buchanan County,Mike Parson,R,22147,True
+Missouri,Buchanan County,Nicole Galloway,D,13225,False
+Missouri,Butler County,Mike Parson,R,14337,True
+Missouri,Butler County,Nicole Galloway,D,3349,False
+Missouri,Caldwell County,Mike Parson,R,3603,True
+Missouri,Caldwell County,Nicole Galloway,D,916,False
+Missouri,Callaway County,Mike Parson,R,14950,True
+Missouri,Callaway County,Nicole Galloway,D,5611,False
+Missouri,Camden County,Mike Parson,R,18837,True
+Missouri,Camden County,Nicole Galloway,D,5461,False
+Missouri,Cape Girardeau County,Mike Parson,R,29127,True
+Missouri,Cape Girardeau County,Nicole Galloway,D,10272,False
+Missouri,Carroll County,Mike Parson,R,3671,True
+Missouri,Carroll County,Nicole Galloway,D,770,False
+Missouri,Carter County,Mike Parson,R,2412,True
+Missouri,Carter County,Nicole Galloway,D,401,False
+Missouri,Cass County,Mike Parson,R,37025,True
+Missouri,Cass County,Nicole Galloway,D,18770,False
+Missouri,Cedar County,Mike Parson,R,5771,True
+Missouri,Cedar County,Nicole Galloway,D,1104,False
+Missouri,Chariton County,Mike Parson,R,3100,True
+Missouri,Chariton County,Nicole Galloway,D,910,False
+Missouri,Christian County,Mike Parson,R,34827,True
+Missouri,Christian County,Nicole Galloway,D,10863,False
+Missouri,Clark County,Mike Parson,R,2667,True
+Missouri,Clark County,Nicole Galloway,D,648,False
+Missouri,Clay County,Mike Parson,R,64682,True
+Missouri,Clay County,Nicole Galloway,D,58224,False
+Missouri,Clinton County,Mike Parson,R,7518,True
+Missouri,Clinton County,Nicole Galloway,D,3001,False
+Missouri,Cole County,Mike Parson,R,26886,True
+Missouri,Cole County,Nicole Galloway,D,11726,False
+Missouri,Cooper County,Mike Parson,R,6224,True
+Missouri,Cooper County,Nicole Galloway,D,2162,False
+Missouri,Crawford County,Mike Parson,R,8480,True
+Missouri,Crawford County,Nicole Galloway,D,2230,False
+Missouri,Dade County,Mike Parson,R,3348,True
+Missouri,Dade County,Nicole Galloway,D,668,False
+Missouri,Dallas County,Mike Parson,R,6646,True
+Missouri,Dallas County,Nicole Galloway,D,1294,False
+Missouri,Daviess County,Mike Parson,R,2997,True
+Missouri,Daviess County,Nicole Galloway,D,783,False
+Missouri,DeKalb County,Mike Parson,R,3763,True
+Missouri,DeKalb County,Nicole Galloway,D,930,False
+Missouri,Dent County,Mike Parson,R,5768,True
+Missouri,Dent County,Nicole Galloway,D,1141,False
+Missouri,Douglas County,Mike Parson,R,5773,True
+Missouri,Douglas County,Nicole Galloway,D,1046,False
+Missouri,Dunklin County,Mike Parson,R,7880,True
+Missouri,Dunklin County,Nicole Galloway,D,2281,False
+Missouri,Franklin County,Mike Parson,R,37136,True
+Missouri,Franklin County,Nicole Galloway,D,14957,False
+Missouri,Gasconade County,Mike Parson,R,6192,True
+Missouri,Gasconade County,Nicole Galloway,D,1537,False
+Missouri,Gentry County,Mike Parson,R,2539,True
+Missouri,Gentry County,Nicole Galloway,D,631,False
+Missouri,Greene County,Mike Parson,R,84582,True
+Missouri,Greene County,Nicole Galloway,D,53519,False
+Missouri,Grundy County,Mike Parson,R,3537,True
+Missouri,Grundy County,Nicole Galloway,D,821,False
+Missouri,Harrison County,Mike Parson,R,3139,True
+Missouri,Harrison County,Nicole Galloway,D,602,False
+Missouri,Henry County,Mike Parson,R,7928,True
+Missouri,Henry County,Nicole Galloway,D,2574,False
+Missouri,Hickory County,Mike Parson,R,4037,True
+Missouri,Hickory County,Nicole Galloway,D,929,False
+Missouri,Holt County,Mike Parson,R,1928,True
+Missouri,Holt County,Nicole Galloway,D,361,False
+Missouri,Howard County,Mike Parson,R,3525,True
+Missouri,Howard County,Nicole Galloway,D,1387,False
+Missouri,Howell County,Mike Parson,R,14947,True
+Missouri,Howell County,Nicole Galloway,D,3210,False
+Missouri,Iron County,Mike Parson,R,3266,True
+Missouri,Iron County,Nicole Galloway,D,1105,False
+Missouri,Jackson County,Nicole Galloway,D,194273,True
+Missouri,Jackson County,Mike Parson,R,128938,False
+Missouri,Jasper County,Mike Parson,R,37714,True
+Missouri,Jasper County,Nicole Galloway,D,13204,False
+Missouri,Jefferson County,Mike Parson,R,73942,True
+Missouri,Jefferson County,Nicole Galloway,D,38866,False
+Missouri,Johnson County,Mike Parson,R,15321,True
+Missouri,Johnson County,Nicole Galloway,D,6895,False
+Missouri,Knox County,Mike Parson,R,1516,True
+Missouri,Knox County,Nicole Galloway,D,294,False
+Missouri,Laclede County,Mike Parson,R,13681,True
+Missouri,Laclede County,Nicole Galloway,D,2747,False
+Missouri,Lafayette County,Mike Parson,R,12238,True
+Missouri,Lafayette County,Nicole Galloway,D,4451,False
+Missouri,Lawrence County,Mike Parson,R,14176,True
+Missouri,Lawrence County,Nicole Galloway,D,3185,False
+Missouri,Lewis County,Mike Parson,R,3638,True
+Missouri,Lewis County,Nicole Galloway,D,880,False
+Missouri,Lincoln County,Mike Parson,R,21014,True
+Missouri,Lincoln County,Nicole Galloway,D,7116,False
+Missouri,Linn County,Mike Parson,R,4275,True
+Missouri,Linn County,Nicole Galloway,D,1308,False
+Missouri,Livingston County,Mike Parson,R,5258,True
+Missouri,Livingston County,Nicole Galloway,D,1332,False
+Missouri,McDonald County,Mike Parson,R,7325,True
+Missouri,McDonald County,Nicole Galloway,D,1438,False
+Missouri,Macon County,Mike Parson,R,6096,True
+Missouri,Macon County,Nicole Galloway,D,1575,False
+Missouri,Madison County,Mike Parson,R,4362,True
+Missouri,Madison County,Nicole Galloway,D,1126,False
+Missouri,Maries County,Mike Parson,R,3875,True
+Missouri,Maries County,Nicole Galloway,D,815,False
+Missouri,Marion County,Mike Parson,R,10082,True
+Missouri,Marion County,Nicole Galloway,D,3015,False
+Missouri,Mercer County,Mike Parson,R,1533,True
+Missouri,Mercer County,Nicole Galloway,D,204,False
+Missouri,Miller County,Mike Parson,R,10213,True
+Missouri,Miller County,Nicole Galloway,D,1888,False
+Missouri,Mississippi County,Mike Parson,R,3521,True
+Missouri,Mississippi County,Nicole Galloway,D,1106,False
+Missouri,Moniteau County,Mike Parson,R,5784,True
+Missouri,Moniteau County,Nicole Galloway,D,1237,False
+Missouri,Monroe County,Mike Parson,R,3472,True
+Missouri,Monroe County,Nicole Galloway,D,900,False
+Missouri,Montgomery County,Mike Parson,R,4416,True
+Missouri,Montgomery County,Nicole Galloway,D,1239,False
+Missouri,Morgan County,Mike Parson,R,7372,True
+Missouri,Morgan County,Nicole Galloway,D,1880,False
+Missouri,New Madrid County,Mike Parson,R,5338,True
+Missouri,New Madrid County,Nicole Galloway,D,1723,False
+Missouri,Newton County,Mike Parson,R,22031,True
+Missouri,Newton County,Nicole Galloway,D,5692,False
+Missouri,Nodaway County,Mike Parson,R,6900,True
+Missouri,Nodaway County,Nicole Galloway,D,2759,False
+Missouri,Oregon County,Mike Parson,R,3770,True
+Missouri,Oregon County,Nicole Galloway,D,840,False
+Missouri,Osage County,Mike Parson,R,6512,True
+Missouri,Osage County,Nicole Galloway,D,927,False
+Missouri,Ozark County,Mike Parson,R,3963,True
+Missouri,Ozark County,Nicole Galloway,D,769,False
+Missouri,Pemiscot County,Mike Parson,R,4030,True
+Missouri,Pemiscot County,Nicole Galloway,D,1490,False
+Missouri,Perry County,Mike Parson,R,7595,True
+Missouri,Perry County,Nicole Galloway,D,1630,False
+Missouri,Pettis County,Mike Parson,R,13645,True
+Missouri,Pettis County,Nicole Galloway,D,4876,False
+Missouri,Phelps County,Mike Parson,R,13408,True
+Missouri,Phelps County,Nicole Galloway,D,5621,False
+Missouri,Pike County,Mike Parson,R,5727,True
+Missouri,Pike County,Nicole Galloway,D,1810,False
+Missouri,Platte County,Mike Parson,R,29616,True
+Missouri,Platte County,Nicole Galloway,D,26293,False
+Missouri,Polk County,Mike Parson,R,12319,True
+Missouri,Polk County,Nicole Galloway,D,2475,False
+Missouri,Pulaski County,Mike Parson,R,10261,True
+Missouri,Pulaski County,Nicole Galloway,D,3599,False
+Missouri,Putnam County,Mike Parson,R,1984,True
+Missouri,Putnam County,Nicole Galloway,D,323,False
+Missouri,Ralls County,Mike Parson,R,4351,True
+Missouri,Ralls County,Nicole Galloway,D,1216,False
+Missouri,Randolph County,Mike Parson,R,7842,True
+Missouri,Randolph County,Nicole Galloway,D,2532,False
+Missouri,Ray County,Mike Parson,R,7964,True
+Missouri,Ray County,Nicole Galloway,D,3279,False
+Missouri,Reynolds County,Mike Parson,R,2501,True
+Missouri,Reynolds County,Nicole Galloway,D,633,False
+Missouri,Ripley County,Mike Parson,R,4629,True
+Missouri,Ripley County,Nicole Galloway,D,899,False
+Missouri,St. Charles County,Mike Parson,R,128230,True
+Missouri,St. Charles County,Nicole Galloway,D,87888,False
+Missouri,St. Clair County,Mike Parson,R,3880,True
+Missouri,St. Clair County,Nicole Galloway,D,995,False
+Missouri,Ste. Genevieve County,Mike Parson,R,6180,True
+Missouri,Ste. Genevieve County,Nicole Galloway,D,3011,False
+Missouri,St. Francois County,Mike Parson,R,19258,True
+Missouri,St. Francois County,Nicole Galloway,D,7682,False
+Missouri,St. Louis County,Nicole Galloway,D,317327,True
+Missouri,St. Louis County,Mike Parson,R,207535,False
+Missouri,Saline County,Mike Parson,R,6443,True
+Missouri,Saline County,Nicole Galloway,D,2832,False
+Missouri,Schuyler County,Mike Parson,R,1577,True
+Missouri,Schuyler County,Nicole Galloway,D,360,False
+Missouri,Scotland County,Mike Parson,R,1584,True
+Missouri,Scotland County,Nicole Galloway,D,342,False
+Missouri,Scott County,Mike Parson,R,13535,True
+Missouri,Scott County,Nicole Galloway,D,3794,False
+Missouri,Shannon County,Mike Parson,R,3013,True
+Missouri,Shannon County,Nicole Galloway,D,758,False
+Missouri,Shelby County,Mike Parson,R,2698,True
+Missouri,Shelby County,Nicole Galloway,D,576,False
+Missouri,Stoddard County,Mike Parson,R,11269,True
+Missouri,Stoddard County,Nicole Galloway,D,1855,False
+Missouri,Stone County,Mike Parson,R,14704,True
+Missouri,Stone County,Nicole Galloway,D,3399,False
+Missouri,Sullivan County,Mike Parson,R,1985,True
+Missouri,Sullivan County,Nicole Galloway,D,441,False
+Missouri,Taney County,Mike Parson,R,20221,True
+Missouri,Taney County,Nicole Galloway,D,5323,False
+Missouri,Texas County,Mike Parson,R,9239,True
+Missouri,Texas County,Nicole Galloway,D,1795,False
+Missouri,Vernon County,Mike Parson,R,7022,True
+Missouri,Vernon County,Nicole Galloway,D,1889,False
+Missouri,Warren County,Mike Parson,R,12892,True
+Missouri,Warren County,Nicole Galloway,D,4920,False
+Missouri,Washington County,Mike Parson,R,7442,True
+Missouri,Washington County,Nicole Galloway,D,2121,False
+Missouri,Wayne County,Mike Parson,R,4801,True
+Missouri,Wayne County,Nicole Galloway,D,900,False
+Missouri,Webster County,Mike Parson,R,14715,True
+Missouri,Webster County,Nicole Galloway,D,3577,False
+Missouri,Worth County,Mike Parson,R,869,True
+Missouri,Worth County,Nicole Galloway,D,205,False
+Missouri,Wright County,Mike Parson,R,7343,True
+Missouri,Wright County,Nicole Galloway,D,1181,False
+Missouri,St. Louis city,Nicole Galloway,D,107296,True
+Missouri,St. Louis city,Mike Parson,R,23380,False
+Montana,Beaverhead County,Greg Gianforte,R,3779,True
+Montana,Beaverhead County,Mike Cooney,D,1668,False
+Montana,Big Horn County,Mike Cooney,D,2513,True
+Montana,Big Horn County,Greg Gianforte,R,2078,False
+Montana,Blaine County,Mike Cooney,D,1619,True
+Montana,Blaine County,Greg Gianforte,R,1365,False
+Montana,Broadwater County,Greg Gianforte,R,3032,True
+Montana,Broadwater County,Mike Cooney,D,928,False
+Montana,Carbon County,Greg Gianforte,R,4303,True
+Montana,Carbon County,Mike Cooney,D,2498,False
+Montana,Carter County,Greg Gianforte,R,748,True
+Montana,Carter County,Mike Cooney,D,91,False
+Montana,Cascade County,Greg Gianforte,R,22221,True
+Montana,Cascade County,Mike Cooney,D,15922,False
+Montana,Chouteau County,Greg Gianforte,R,1816,True
+Montana,Chouteau County,Mike Cooney,D,1048,False
+Montana,Custer County,Greg Gianforte,R,3971,True
+Montana,Custer County,Mike Cooney,D,1619,False
+Montana,Daniels County,Greg Gianforte,R,768,True
+Montana,Daniels County,Mike Cooney,D,217,False
+Montana,Dawson County,Greg Gianforte,R,3524,True
+Montana,Dawson County,Mike Cooney,D,1124,False
+Montana,Deer Lodge County,Mike Cooney,D,2747,True
+Montana,Deer Lodge County,Greg Gianforte,R,1881,False
+Montana,Fallon County,Greg Gianforte,R,1288,True
+Montana,Fallon County,Mike Cooney,D,218,False
+Montana,Fergus County,Greg Gianforte,R,4737,True
+Montana,Fergus County,Mike Cooney,D,1567,False
+Montana,Flathead County,Greg Gianforte,R,37213,True
+Montana,Flathead County,Mike Cooney,D,20387,False
+Montana,Gallatin County,Mike Cooney,D,36788,True
+Montana,Gallatin County,Greg Gianforte,R,31368,False
+Montana,Garfield County,Greg Gianforte,R,751,True
+Montana,Garfield County,Mike Cooney,D,48,False
+Montana,Glacier County,Mike Cooney,D,3730,True
+Montana,Glacier County,Greg Gianforte,R,1709,False
+Montana,Golden Valley County,Greg Gianforte,R,409,True
+Montana,Golden Valley County,Mike Cooney,D,80,False
+Montana,Granite County,Greg Gianforte,R,1348,True
+Montana,Granite County,Mike Cooney,D,659,False
+Montana,Hill County,Greg Gianforte,R,3642,True
+Montana,Hill County,Mike Cooney,D,3146,False
+Montana,Jefferson County,Greg Gianforte,R,5097,True
+Montana,Jefferson County,Mike Cooney,D,2791,False
+Montana,Judith Basin County,Greg Gianforte,R,1017,True
+Montana,Judith Basin County,Mike Cooney,D,281,False
+Montana,Lake County,Greg Gianforte,R,8913,True
+Montana,Lake County,Mike Cooney,D,6885,False
+Montana,Lewis and Clark County,Mike Cooney,D,21022,True
+Montana,Lewis and Clark County,Greg Gianforte,R,19969,False
+Montana,Liberty County,Greg Gianforte,R,788,True
+Montana,Liberty County,Mike Cooney,D,268,False
+Montana,Lincoln County,Greg Gianforte,R,8279,True
+Montana,Lincoln County,Mike Cooney,D,3001,False
+Montana,McCone County,Greg Gianforte,R,921,True
+Montana,McCone County,Mike Cooney,D,165,False
+Montana,Madison County,Greg Gianforte,R,3992,True
+Montana,Madison County,Mike Cooney,D,1877,False
+Montana,Meagher County,Greg Gianforte,R,823,True
+Montana,Meagher County,Mike Cooney,D,256,False
+Montana,Mineral County,Greg Gianforte,R,1715,True
+Montana,Mineral County,Mike Cooney,D,706,False
+Montana,Missoula County,Mike Cooney,D,43426,True
+Montana,Missoula County,Greg Gianforte,R,25448,False
+Montana,Musselshell County,Greg Gianforte,R,2318,True
+Montana,Musselshell County,Mike Cooney,D,450,False
+Montana,Park County,Greg Gianforte,R,5798,True
+Montana,Park County,Mike Cooney,D,5364,False
+Montana,Petroleum County,Greg Gianforte,R,299,True
+Montana,Petroleum County,Mike Cooney,D,44,False
+Montana,Phillips County,Greg Gianforte,R,1908,True
+Montana,Phillips County,Mike Cooney,D,412,False
+Montana,Pondera County,Greg Gianforte,R,1981,True
+Montana,Pondera County,Mike Cooney,D,912,False
+Montana,Powder River County,Greg Gianforte,R,943,True
+Montana,Powder River County,Mike Cooney,D,162,False
+Montana,Powell County,Greg Gianforte,R,2212,True
+Montana,Powell County,Mike Cooney,D,849,False
+Montana,Prairie County,Greg Gianforte,R,544,True
+Montana,Prairie County,Mike Cooney,D,160,False
+Montana,Ravalli County,Greg Gianforte,R,18557,True
+Montana,Ravalli County,Mike Cooney,D,8883,False
+Montana,Richland County,Greg Gianforte,R,4506,True
+Montana,Richland County,Mike Cooney,D,1017,False
+Montana,Roosevelt County,Mike Cooney,D,1961,True
+Montana,Roosevelt County,Greg Gianforte,R,1859,False
+Montana,Rosebud County,Greg Gianforte,R,2363,True
+Montana,Rosebud County,Mike Cooney,D,1236,False
+Montana,Sanders County,Greg Gianforte,R,5346,True
+Montana,Sanders County,Mike Cooney,D,1870,False
+Montana,Sheridan County,Greg Gianforte,R,1300,True
+Montana,Sheridan County,Mike Cooney,D,634,False
+Montana,Silver Bow County,Mike Cooney,D,11495,True
+Montana,Silver Bow County,Greg Gianforte,R,6490,False
+Montana,Stillwater County,Greg Gianforte,R,4292,True
+Montana,Stillwater County,Mike Cooney,D,1263,False
+Montana,Sweet Grass County,Greg Gianforte,R,1801,True
+Montana,Sweet Grass County,Mike Cooney,D,553,False
+Montana,Teton County,Greg Gianforte,R,2497,True
+Montana,Teton County,Mike Cooney,D,1053,False
+Montana,Toole County,Greg Gianforte,R,1546,True
+Montana,Toole County,Mike Cooney,D,468,False
+Montana,Treasure County,Greg Gianforte,R,358,True
+Montana,Treasure County,Mike Cooney,D,89,False
+Montana,Valley County,Greg Gianforte,R,2899,True
+Montana,Valley County,Mike Cooney,D,1182,False
+Montana,Wheatland County,Greg Gianforte,R,767,True
+Montana,Wheatland County,Mike Cooney,D,251,False
+Montana,Wibaux County,Greg Gianforte,R,465,True
+Montana,Wibaux County,Mike Cooney,D,105,False
+Montana,Yellowstone County,Greg Gianforte,R,48586,True
+Montana,Yellowstone County,Mike Cooney,D,31152,False
+New Hampshire,Alton,Chris Sununu,R,3093,True
+New Hampshire,Alton,Dan Feltes,D,757,False
+New Hampshire,Barnstead,Chris Sununu,R,2181,True
+New Hampshire,Barnstead,Dan Feltes,D,662,False
+New Hampshire,Belmont,Chris Sununu,R,3133,True
+New Hampshire,Belmont,Dan Feltes,D,813,False
+New Hampshire,Center Harbor,Chris Sununu,R,552,True
+New Hampshire,Center Harbor,Dan Feltes,D,224,False
+New Hampshire,Gilford,Chris Sununu,R,3796,True
+New Hampshire,Gilford,Dan Feltes,D,1372,False
+New Hampshire,Gilmanton,Chris Sununu,R,1808,True
+New Hampshire,Gilmanton,Dan Feltes,D,622,False
+New Hampshire,Laconia,Chris Sununu,R,6426,True
+New Hampshire,Laconia,Dan Feltes,D,2329,False
+New Hampshire,Meredith,Chris Sununu,R,3137,True
+New Hampshire,Meredith,Dan Feltes,D,1185,False
+New Hampshire,New Hampton,Chris Sununu,R,1065,True
+New Hampshire,New Hampton,Dan Feltes,D,440,False
+New Hampshire,Sanbornton,Chris Sununu,R,1432,True
+New Hampshire,Sanbornton,Dan Feltes,D,558,False
+New Hampshire,Tilton,Chris Sununu,R,1451,True
+New Hampshire,Tilton,Dan Feltes,D,529,False
+New Hampshire,Albany,Chris Sununu,R,276,True
+New Hampshire,Albany,Dan Feltes,D,162,False
+New Hampshire,Bartlett,Chris Sununu,R,1232,True
+New Hampshire,Bartlett,Dan Feltes,D,896,False
+New Hampshire,Brookfield,Chris Sununu,R,400,True
+New Hampshire,Brookfield,Dan Feltes,D,128,False
+New Hampshire,Chatham,Chris Sununu,R,164,True
+New Hampshire,Chatham,Dan Feltes,D,76,False
+New Hampshire,Conway,Chris Sununu,R,3657,True
+New Hampshire,Conway,Dan Feltes,D,2122,False
+New Hampshire,Eaton,Chris Sununu,R,172,True
+New Hampshire,Eaton,Dan Feltes,D,129,False
+New Hampshire,Effingham,Chris Sununu,R,640,True
+New Hampshire,Effingham,Dan Feltes,D,271,False
+New Hampshire,Freedom,Chris Sununu,R,732,True
+New Hampshire,Freedom,Dan Feltes,D,333,False
+New Hampshire,Harts Location,Chris Sununu,R,26,True
+New Hampshire,Harts Location,Dan Feltes,D,17,False
+New Hampshire,Jackson,Dan Feltes,D,424,True
+New Hampshire,Jackson,Chris Sununu,R,328,False
+New Hampshire,Madison,Chris Sununu,R,1073,True
+New Hampshire,Madison,Dan Feltes,D,595,False
+New Hampshire,Moultonborough,Chris Sununu,R,2739,True
+New Hampshire,Moultonborough,Dan Feltes,D,855,False
+New Hampshire,Ossipee,Chris Sununu,R,1858,True
+New Hampshire,Ossipee,Dan Feltes,D,567,False
+New Hampshire,Sandwich,Chris Sununu,R,584,True
+New Hampshire,Sandwich,Dan Feltes,D,526,False
+New Hampshire,Tamworth,Chris Sununu,R,1094,True
+New Hampshire,Tamworth,Dan Feltes,D,644,False
+New Hampshire,Tuftonboro,Chris Sununu,R,1387,True
+New Hampshire,Tuftonboro,Dan Feltes,D,493,False
+New Hampshire,Wakefield,Chris Sununu,R,2539,True
+New Hampshire,Wakefield,Dan Feltes,D,724,False
+New Hampshire,Wolfeboro,Chris Sununu,R,3218,True
+New Hampshire,Wolfeboro,Dan Feltes,D,1466,False
+New Hampshire,Alstead,Chris Sununu,R,649,True
+New Hampshire,Alstead,Dan Feltes,D,501,False
+New Hampshire,Chesterfield,Chris Sununu,R,1282,True
+New Hampshire,Chesterfield,Dan Feltes,D,1052,False
+New Hampshire,Dublin,Chris Sununu,R,588,True
+New Hampshire,Dublin,Dan Feltes,D,492,False
+New Hampshire,Fitzwilliam,Chris Sununu,R,834,True
+New Hampshire,Fitzwilliam,Dan Feltes,D,442,False
+New Hampshire,Gilsum,Chris Sununu,R,337,True
+New Hampshire,Gilsum,Dan Feltes,D,160,False
+New Hampshire,Harrisville,Dan Feltes,D,433,True
+New Hampshire,Harrisville,Chris Sununu,R,315,False
+New Hampshire,Hinsdale,Chris Sununu,R,1099,True
+New Hampshire,Hinsdale,Dan Feltes,D,713,False
+New Hampshire,Jaffrey,Chris Sununu,R,1902,True
+New Hampshire,Jaffrey,Dan Feltes,D,1055,False
+New Hampshire,Keene,Dan Feltes,D,6497,True
+New Hampshire,Keene,Chris Sununu,R,5966,False
+New Hampshire,Marlborough,Chris Sununu,R,683,True
+New Hampshire,Marlborough,Dan Feltes,D,540,False
+New Hampshire,Marlow,Chris Sununu,R,284,True
+New Hampshire,Marlow,Dan Feltes,D,196,False
+New Hampshire,Nelson,Dan Feltes,D,223,True
+New Hampshire,Nelson,Chris Sununu,R,208,False
+New Hampshire,Richmond,Chris Sununu,R,485,True
+New Hampshire,Richmond,Dan Feltes,D,198,False
+New Hampshire,Rindge,Chris Sununu,R,2579,True
+New Hampshire,Rindge,Dan Feltes,D,930,False
+New Hampshire,Roxbury,Dan Feltes,D,71,True
+New Hampshire,Roxbury,Chris Sununu,R,63,False
+New Hampshire,Stoddard,Chris Sununu,R,554,True
+New Hampshire,Stoddard,Dan Feltes,D,353,False
+New Hampshire,Sullivan,Chris Sununu,R,248,True
+New Hampshire,Sullivan,Dan Feltes,D,139,False
+New Hampshire,Surry,Chris Sununu,R,340,True
+New Hampshire,Surry,Dan Feltes,D,207,False
+New Hampshire,Swanzey,Chris Sununu,R,2404,True
+New Hampshire,Swanzey,Dan Feltes,D,1295,False
+New Hampshire,Troy,Chris Sununu,R,754,True
+New Hampshire,Troy,Dan Feltes,D,319,False
+New Hampshire,Walpole,Chris Sununu,R,1282,True
+New Hampshire,Walpole,Dan Feltes,D,998,False
+New Hampshire,Westmoreland,Chris Sununu,R,630,True
+New Hampshire,Westmoreland,Dan Feltes,D,467,False
+New Hampshire,Winchester,Chris Sununu,R,1222,True
+New Hampshire,Winchester,Dan Feltes,D,692,False
+New Hampshire,Berlin,Chris Sununu,R,2547,True
+New Hampshire,Berlin,Dan Feltes,D,1381,False
+New Hampshire,Carroll,Chris Sununu,R,371,True
+New Hampshire,Carroll,Dan Feltes,D,159,False
+New Hampshire,Clarksville,Chris Sununu,R,132,True
+New Hampshire,Clarksville,Dan Feltes,D,39,False
+New Hampshire,Colebrook,Chris Sununu,R,808,True
+New Hampshire,Colebrook,Dan Feltes,D,239,False
+New Hampshire,Columbia,Chris Sununu,R,287,True
+New Hampshire,Columbia,Dan Feltes,D,70,False
+New Hampshire,Dalton,Chris Sununu,R,371,True
+New Hampshire,Dalton,Dan Feltes,D,138,False
+New Hampshire,Dixville,Chris Sununu,R,4,True
+New Hampshire,Dixville,Dan Feltes,D,1,False
+New Hampshire,Dummer,Chris Sununu,R,128,True
+New Hampshire,Dummer,Dan Feltes,D,53,False
+New Hampshire,Errol,Chris Sununu,R,190,True
+New Hampshire,Errol,Dan Feltes,D,29,False
+New Hampshire,Gorham,Chris Sununu,R,1066,True
+New Hampshire,Gorham,Dan Feltes,D,566,False
+New Hampshire,Jefferson,Chris Sununu,R,489,True
+New Hampshire,Jefferson,Dan Feltes,D,162,False
+New Hampshire,Lancaster,Chris Sununu,R,1189,True
+New Hampshire,Lancaster,Dan Feltes,D,490,False
+New Hampshire,Milan,Chris Sununu,R,578,True
+New Hampshire,Milan,Dan Feltes,D,204,False
+New Hampshire,Millsfield,Chris Sununu,R,22,True
+New Hampshire,Millsfield,Dan Feltes,D,0,False
+New Hampshire,Northumberland,Chris Sununu,R,795,True
+New Hampshire,Northumberland,Dan Feltes,D,237,False
+New Hampshire,Pittsburg,Chris Sununu,R,474,True
+New Hampshire,Pittsburg,Dan Feltes,D,66,False
+New Hampshire,Randolph,Chris Sununu,R,143,True
+New Hampshire,Randolph,Dan Feltes,D,128,False
+New Hampshire,Shelburne,Chris Sununu,R,160,True
+New Hampshire,Shelburne,Dan Feltes,D,85,False
+New Hampshire,Stark,Chris Sununu,R,227,True
+New Hampshire,Stark,Dan Feltes,D,61,False
+New Hampshire,Stewartstown,Chris Sununu,R,326,True
+New Hampshire,Stewartstown,Dan Feltes,D,65,False
+New Hampshire,Stratford,Chris Sununu,R,199,True
+New Hampshire,Stratford,Dan Feltes,D,90,False
+New Hampshire,Wentworth's Location,Chris Sununu,R,15,True
+New Hampshire,Wentworth's Location,Dan Feltes,D,3,False
+New Hampshire,Whitefield,Chris Sununu,R,888,True
+New Hampshire,Whitefield,Dan Feltes,D,400,False
+New Hampshire,Alexandria,Chris Sununu,R,775,True
+New Hampshire,Alexandria,Dan Feltes,D,267,False
+New Hampshire,Ashland,Chris Sununu,R,792,True
+New Hampshire,Ashland,Dan Feltes,D,382,False
+New Hampshire,Bath,Chris Sununu,R,431,True
+New Hampshire,Bath,Dan Feltes,D,171,False
+New Hampshire,Benton,Chris Sununu,R,179,True
+New Hampshire,Benton,Dan Feltes,D,46,False
+New Hampshire,Bethlehem,Chris Sununu,R,910,True
+New Hampshire,Bethlehem,Dan Feltes,D,694,False
+New Hampshire,Bridgewater,Chris Sununu,R,607,True
+New Hampshire,Bridgewater,Dan Feltes,D,231,False
+New Hampshire,Bristol,Chris Sununu,R,1317,True
+New Hampshire,Bristol,Dan Feltes,D,495,False
+New Hampshire,Campton,Chris Sununu,R,1358,True
+New Hampshire,Campton,Dan Feltes,D,713,False
+New Hampshire,Canaan,Chris Sununu,R,1291,True
+New Hampshire,Canaan,Dan Feltes,D,741,False
+New Hampshire,Dorchester,Chris Sununu,R,153,True
+New Hampshire,Dorchester,Dan Feltes,D,71,False
+New Hampshire,Easton,Dan Feltes,D,127,True
+New Hampshire,Easton,Chris Sununu,R,98,False
+New Hampshire,Ellsworth,Chris Sununu,R,43,True
+New Hampshire,Ellsworth,Dan Feltes,D,32,False
+New Hampshire,Enfield,Chris Sununu,R,1513,True
+New Hampshire,Enfield,Dan Feltes,D,1184,False
+New Hampshire,Franconia,Chris Sununu,R,418,True
+New Hampshire,Franconia,Dan Feltes,D,379,False
+New Hampshire,Grafton,Chris Sununu,R,544,True
+New Hampshire,Grafton,Dan Feltes,D,213,False
+New Hampshire,Groton,Chris Sununu,R,277,True
+New Hampshire,Groton,Dan Feltes,D,90,False
+New Hampshire,Hanover,Dan Feltes,D,5020,True
+New Hampshire,Hanover,Chris Sununu,R,1742,False
+New Hampshire,Haverhill,Chris Sununu,R,1516,True
+New Hampshire,Haverhill,Dan Feltes,D,560,False
+New Hampshire,Hebron,Chris Sununu,R,390,True
+New Hampshire,Hebron,Dan Feltes,D,122,False
+New Hampshire,Holderness,Chris Sununu,R,843,True
+New Hampshire,Holderness,Dan Feltes,D,618,False
+New Hampshire,Landaff,Chris Sununu,R,178,True
+New Hampshire,Landaff,Dan Feltes,D,79,False
+New Hampshire,Lebanon,Dan Feltes,D,4335,True
+New Hampshire,Lebanon,Chris Sununu,R,3394,False
+New Hampshire,Lincoln,Chris Sununu,R,630,True
+New Hampshire,Lincoln,Dan Feltes,D,265,False
+New Hampshire,Lisbon,Chris Sununu,R,553,True
+New Hampshire,Lisbon,Dan Feltes,D,223,False
+New Hampshire,Littleton,Chris Sununu,R,2130,True
+New Hampshire,Littleton,Dan Feltes,D,925,False
+New Hampshire,Lyman,Chris Sununu,R,252,True
+New Hampshire,Lyman,Dan Feltes,D,118,False
+New Hampshire,Lyme,Dan Feltes,D,869,True
+New Hampshire,Lyme,Chris Sununu,R,397,False
+New Hampshire,Monroe,Chris Sununu,R,378,True
+New Hampshire,Monroe,Dan Feltes,D,148,False
+New Hampshire,Orange,Chris Sununu,R,127,True
+New Hampshire,Orange,Dan Feltes,D,57,False
+New Hampshire,Orford,Chris Sununu,R,415,True
+New Hampshire,Orford,Dan Feltes,D,399,False
+New Hampshire,Piermont,Chris Sununu,R,282,True
+New Hampshire,Piermont,Dan Feltes,D,151,False
+New Hampshire,Plymouth,Chris Sununu,R,1690,True
+New Hampshire,Plymouth,Dan Feltes,D,1530,False
+New Hampshire,Rumney,Chris Sununu,R,644,True
+New Hampshire,Rumney,Dan Feltes,D,281,False
+New Hampshire,Sugar Hill,Chris Sununu,R,247,True
+New Hampshire,Sugar Hill,Dan Feltes,D,231,False
+New Hampshire,Thornton,Chris Sununu,R,1087,True
+New Hampshire,Thornton,Dan Feltes,D,573,False
+New Hampshire,Warren,Chris Sununu,R,339,True
+New Hampshire,Warren,Dan Feltes,D,123,False
+New Hampshire,Waterville,Chris Sununu,R,222,True
+New Hampshire,Waterville,Dan Feltes,D,142,False
+New Hampshire,Wentworth,Chris Sununu,R,444,True
+New Hampshire,Wentworth,Dan Feltes,D,155,False
+New Hampshire,Woodstock,Chris Sununu,R,568,True
+New Hampshire,Woodstock,Dan Feltes,D,263,False
+New Hampshire,Amherst,Chris Sununu,R,4960,True
+New Hampshire,Amherst,Dan Feltes,D,2913,False
+New Hampshire,Antrim,Chris Sununu,R,1006,True
+New Hampshire,Antrim,Dan Feltes,D,535,False
+New Hampshire,Bedford,Chris Sununu,R,10493,True
+New Hampshire,Bedford,Dan Feltes,D,4077,False
+New Hampshire,Bennington,Chris Sununu,R,521,True
+New Hampshire,Bennington,Dan Feltes,D,279,False
+New Hampshire,Brookline,Chris Sununu,R,2445,True
+New Hampshire,Brookline,Dan Feltes,D,1101,False
+New Hampshire,Deering,Chris Sununu,R,836,True
+New Hampshire,Deering,Dan Feltes,D,292,False
+New Hampshire,Francestown,Chris Sununu,R,706,True
+New Hampshire,Francestown,Dan Feltes,D,400,False
+New Hampshire,Goffstown,Chris Sununu,R,7284,True
+New Hampshire,Goffstown,Dan Feltes,D,2714,False
+New Hampshire,Greenfield,Chris Sununu,R,636,True
+New Hampshire,Greenfield,Dan Feltes,D,357,False
+New Hampshire,Greenville,Chris Sununu,R,721,True
+New Hampshire,Greenville,Dan Feltes,D,305,False
+New Hampshire,Hancock,Dan Feltes,D,658,True
+New Hampshire,Hancock,Chris Sununu,R,605,False
+New Hampshire,Hillsborough,Chris Sununu,R,2214,True
+New Hampshire,Hillsborough,Dan Feltes,D,955,False
+New Hampshire,Hollis,Chris Sununu,R,3582,True
+New Hampshire,Hollis,Dan Feltes,D,2005,False
+New Hampshire,Hudson,Chris Sununu,R,10546,True
+New Hampshire,Hudson,Dan Feltes,D,3726,False
+New Hampshire,Litchfield,Chris Sununu,R,4064,True
+New Hampshire,Litchfield,Dan Feltes,D,1210,False
+New Hampshire,Lyndeborough,Chris Sununu,R,742,True
+New Hampshire,Lyndeborough,Dan Feltes,D,370,False
+New Hampshire,Manchester,Chris Sununu,R,32454,True
+New Hampshire,Manchester,Dan Feltes,D,16609,False
+New Hampshire,Mason,Chris Sununu,R,672,True
+New Hampshire,Mason,Dan Feltes,D,253,False
+New Hampshire,Merrimack,Chris Sununu,R,11474,True
+New Hampshire,Merrimack,Dan Feltes,D,4835,False
+New Hampshire,Milford,Chris Sununu,R,6121,True
+New Hampshire,Milford,Dan Feltes,D,2609,False
+New Hampshire,Mont Vernon,Chris Sununu,R,1062,True
+New Hampshire,Mont Vernon,Dan Feltes,D,673,False
+New Hampshire,Nashua,Chris Sununu,R,26741,True
+New Hampshire,Nashua,Dan Feltes,D,17056,False
+New Hampshire,New Boston,Chris Sununu,R,2737,True
+New Hampshire,New Boston,Dan Feltes,D,1102,False
+New Hampshire,New Ipswich,Chris Sununu,R,2479,True
+New Hampshire,New Ipswich,Dan Feltes,D,586,False
+New Hampshire,Pelham,Chris Sununu,R,6609,True
+New Hampshire,Pelham,Dan Feltes,D,2020,False
+New Hampshire,Peterborough,Dan Feltes,D,2355,True
+New Hampshire,Peterborough,Chris Sununu,R,1906,False
+New Hampshire,Sharon,Chris Sununu,R,161,True
+New Hampshire,Sharon,Dan Feltes,D,107,False
+New Hampshire,Temple,Chris Sununu,R,574,True
+New Hampshire,Temple,Dan Feltes,D,360,False
+New Hampshire,Weare,Chris Sununu,R,4174,True
+New Hampshire,Weare,Dan Feltes,D,1248,False
+New Hampshire,Wilton,Chris Sununu,R,1528,True
+New Hampshire,Wilton,Dan Feltes,D,881,False
+New Hampshire,Windsor,Chris Sununu,R,100,True
+New Hampshire,Windsor,Dan Feltes,D,23,False
+New Hampshire,Allenstown,Chris Sununu,R,1674,True
+New Hampshire,Allenstown,Dan Feltes,D,556,False
+New Hampshire,Andover,Chris Sununu,R,945,True
+New Hampshire,Andover,Dan Feltes,D,623,False
+New Hampshire,Boscawen,Chris Sununu,R,1427,True
+New Hampshire,Boscawen,Dan Feltes,D,557,False
+New Hampshire,Bow,Chris Sununu,R,3436,True
+New Hampshire,Bow,Dan Feltes,D,2031,False
+New Hampshire,Bradford,Chris Sununu,R,674,True
+New Hampshire,Bradford,Dan Feltes,D,363,False
+New Hampshire,Canterbury,Chris Sununu,R,993,True
+New Hampshire,Canterbury,Dan Feltes,D,707,False
+New Hampshire,Chichester,Chris Sununu,R,1249,True
+New Hampshire,Chichester,Dan Feltes,D,451,False
+New Hampshire,Concord,Chris Sununu,R,12245,True
+New Hampshire,Concord,Dan Feltes,D,10972,False
+New Hampshire,Danbury,Chris Sununu,R,525,True
+New Hampshire,Danbury,Dan Feltes,D,182,False
+New Hampshire,Dunbarton,Chris Sununu,R,1449,True
+New Hampshire,Dunbarton,Dan Feltes,D,547,False
+New Hampshire,Epsom,Chris Sununu,R,2228,True
+New Hampshire,Epsom,Dan Feltes,D,636,False
+New Hampshire,Franklin,Chris Sununu,R,2923,True
+New Hampshire,Franklin,Dan Feltes,D,1104,False
+New Hampshire,Henniker,Chris Sununu,R,1596,True
+New Hampshire,Henniker,Dan Feltes,D,1002,False
+New Hampshire,Hill,Chris Sununu,R,486,True
+New Hampshire,Hill,Dan Feltes,D,133,False
+New Hampshire,Hooksett,Chris Sununu,R,6282,True
+New Hampshire,Hooksett,Dan Feltes,D,2159,False
+New Hampshire,Hopkinton,Chris Sununu,R,2094,True
+New Hampshire,Hopkinton,Dan Feltes,D,2026,False
+New Hampshire,Loudon,Chris Sununu,R,2763,True
+New Hampshire,Loudon,Dan Feltes,D,890,False
+New Hampshire,Newbury,Chris Sununu,R,1087,True
+New Hampshire,Newbury,Dan Feltes,D,543,False
+New Hampshire,New London,Chris Sununu,R,1710,True
+New Hampshire,New London,Dan Feltes,D,1390,False
+New Hampshire,Northfield,Chris Sununu,R,1912,True
+New Hampshire,Northfield,Dan Feltes,D,666,False
+New Hampshire,Pembroke,Chris Sununu,R,2948,True
+New Hampshire,Pembroke,Dan Feltes,D,1302,False
+New Hampshire,Pittsfield,Chris Sununu,R,1588,True
+New Hampshire,Pittsfield,Dan Feltes,D,455,False
+New Hampshire,Salisbury,Chris Sununu,R,656,True
+New Hampshire,Salisbury,Dan Feltes,D,249,False
+New Hampshire,Sutton,Chris Sununu,R,815,True
+New Hampshire,Sutton,Dan Feltes,D,520,False
+New Hampshire,Warner,Chris Sununu,R,1144,True
+New Hampshire,Warner,Dan Feltes,D,760,False
+New Hampshire,Webster,Chris Sununu,R,861,True
+New Hampshire,Webster,Dan Feltes,D,357,False
+New Hampshire,Wilmot,Chris Sununu,R,556,True
+New Hampshire,Wilmot,Dan Feltes,D,391,False
+New Hampshire,Atkinson,Chris Sununu,R,3749,True
+New Hampshire,Atkinson,Dan Feltes,D,1283,False
+New Hampshire,Auburn,Chris Sununu,R,3058,True
+New Hampshire,Auburn,Dan Feltes,D,778,False
+New Hampshire,Brentwood,Chris Sununu,R,1945,True
+New Hampshire,Brentwood,Dan Feltes,D,893,False
+New Hampshire,Candia,Chris Sununu,R,2143,True
+New Hampshire,Candia,Dan Feltes,D,568,False
+New Hampshire,Chester,Chris Sununu,R,2562,True
+New Hampshire,Chester,Dan Feltes,D,820,False
+New Hampshire,Danville,Chris Sununu,R,2106,True
+New Hampshire,Danville,Dan Feltes,D,621,False
+New Hampshire,Deerfield,Chris Sununu,R,2338,True
+New Hampshire,Deerfield,Dan Feltes,D,808,False
+New Hampshire,Derry,Chris Sununu,R,12519,True
+New Hampshire,Derry,Dan Feltes,D,4967,False
+New Hampshire,East Kingston,Chris Sununu,R,1194,True
+New Hampshire,East Kingston,Dan Feltes,D,449,False
+New Hampshire,Epping,Chris Sununu,R,3106,True
+New Hampshire,Epping,Dan Feltes,D,1146,False
+New Hampshire,Exeter,Chris Sununu,R,5443,True
+New Hampshire,Exeter,Dan Feltes,D,4660,False
+New Hampshire,Fremont,Chris Sununu,R,2154,True
+New Hampshire,Fremont,Dan Feltes,D,635,False
+New Hampshire,Greenland,Chris Sununu,R,1855,True
+New Hampshire,Greenland,Dan Feltes,D,1009,False
+New Hampshire,Hampstead,Chris Sununu,R,4361,True
+New Hampshire,Hampstead,Dan Feltes,D,1403,False
+New Hampshire,Hampton,Chris Sununu,R,7674,True
+New Hampshire,Hampton,Dan Feltes,D,3598,False
+New Hampshire,Hampton Falls,Chris Sununu,R,1206,True
+New Hampshire,Hampton Falls,Dan Feltes,D,469,False
+New Hampshire,Kensington,Chris Sununu,R,1001,True
+New Hampshire,Kensington,Dan Feltes,D,520,False
+New Hampshire,Kingston,Chris Sununu,R,2966,True
+New Hampshire,Kingston,Dan Feltes,D,1054,False
+New Hampshire,Londonderry,Chris Sununu,R,11303,True
+New Hampshire,Londonderry,Dan Feltes,D,4302,False
+New Hampshire,New Castle,Chris Sununu,R,508,True
+New Hampshire,New Castle,Dan Feltes,D,402,False
+New Hampshire,Newfields,Chris Sununu,R,825,True
+New Hampshire,Newfields,Dan Feltes,D,414,False
+New Hampshire,Newington,Chris Sununu,R,426,True
+New Hampshire,Newington,Dan Feltes,D,204,False
+New Hampshire,Newmarket,Chris Sununu,R,3150,True
+New Hampshire,Newmarket,Dan Feltes,D,2644,False
+New Hampshire,Newton,Chris Sununu,R,2123,True
+New Hampshire,Newton,Dan Feltes,D,789,False
+New Hampshire,North Hampton,Chris Sununu,R,2250,True
+New Hampshire,North Hampton,Dan Feltes,D,1158,False
+New Hampshire,Northwood,Chris Sununu,R,1967,True
+New Hampshire,Northwood,Dan Feltes,D,807,False
+New Hampshire,Nottingham,Chris Sununu,R,2381,True
+New Hampshire,Nottingham,Dan Feltes,D,1056,False
+New Hampshire,Plaistow,Chris Sununu,R,3162,True
+New Hampshire,Plaistow,Dan Feltes,D,1296,False
+New Hampshire,Portsmouth,Dan Feltes,D,7350,True
+New Hampshire,Portsmouth,Chris Sununu,R,6861,False
+New Hampshire,Raymond,Chris Sununu,R,4494,True
+New Hampshire,Raymond,Dan Feltes,D,1328,False
+New Hampshire,Rye,Chris Sununu,R,2638,True
+New Hampshire,Rye,Dan Feltes,D,1757,False
+New Hampshire,Salem,Chris Sununu,R,13202,True
+New Hampshire,Salem,Dan Feltes,D,4289,False
+New Hampshire,Sandown,Chris Sununu,R,2919,True
+New Hampshire,Sandown,Dan Feltes,D,967,False
+New Hampshire,Seabrook,Chris Sununu,R,3665,True
+New Hampshire,Seabrook,Dan Feltes,D,1144,False
+New Hampshire,South Hampton,Chris Sununu,R,420,True
+New Hampshire,South Hampton,Dan Feltes,D,215,False
+New Hampshire,Stratham,Chris Sununu,R,3377,True
+New Hampshire,Stratham,Dan Feltes,D,2026,False
+New Hampshire,Windham,Chris Sununu,R,7241,True
+New Hampshire,Windham,Dan Feltes,D,2403,False
+New Hampshire,Barrington,Chris Sununu,R,3964,True
+New Hampshire,Barrington,Dan Feltes,D,1901,False
+New Hampshire,Dover,Chris Sununu,R,10214,True
+New Hampshire,Dover,Dan Feltes,D,8411,False
+New Hampshire,Durham,Dan Feltes,D,4332,True
+New Hampshire,Durham,Chris Sununu,R,3020,False
+New Hampshire,Farmington,Chris Sununu,R,2541,True
+New Hampshire,Farmington,Dan Feltes,D,789,False
+New Hampshire,Lee,Chris Sununu,R,1579,True
+New Hampshire,Lee,Dan Feltes,D,1325,False
+New Hampshire,Madbury,Chris Sununu,R,697,True
+New Hampshire,Madbury,Dan Feltes,D,557,False
+New Hampshire,Middleton,Chris Sununu,R,815,True
+New Hampshire,Middleton,Dan Feltes,D,210,False
+New Hampshire,Milton,Chris Sununu,R,1904,True
+New Hampshire,Milton,Dan Feltes,D,552,False
+New Hampshire,New Durham,Chris Sununu,R,1411,True
+New Hampshire,New Durham,Dan Feltes,D,392,False
+New Hampshire,Rochester,Chris Sununu,R,11705,True
+New Hampshire,Rochester,Dan Feltes,D,4682,False
+New Hampshire,Rollinsford,Chris Sununu,R,1086,True
+New Hampshire,Rollinsford,Dan Feltes,D,607,False
+New Hampshire,Somersworth,Chris Sununu,R,3708,True
+New Hampshire,Somersworth,Dan Feltes,D,2222,False
+New Hampshire,Strafford,Chris Sununu,R,1898,True
+New Hampshire,Strafford,Dan Feltes,D,811,False
+New Hampshire,Acworth,Chris Sununu,R,325,True
+New Hampshire,Acworth,Dan Feltes,D,229,False
+New Hampshire,Charlestown,Chris Sununu,R,1692,True
+New Hampshire,Charlestown,Dan Feltes,D,712,False
+New Hampshire,Claremont,Chris Sununu,R,3829,True
+New Hampshire,Claremont,Dan Feltes,D,1793,False
+New Hampshire,Cornish,Chris Sununu,R,660,True
+New Hampshire,Cornish,Dan Feltes,D,468,False
+New Hampshire,Croydon,Chris Sununu,R,400,True
+New Hampshire,Croydon,Dan Feltes,D,96,False
+New Hampshire,Goshen,Chris Sununu,R,349,True
+New Hampshire,Goshen,Dan Feltes,D,118,False
+New Hampshire,Grantham,Chris Sununu,R,1210,True
+New Hampshire,Grantham,Dan Feltes,D,1158,False
+New Hampshire,Langdon,Chris Sununu,R,263,True
+New Hampshire,Langdon,Dan Feltes,D,139,False
+New Hampshire,Lempster,Chris Sununu,R,552,True
+New Hampshire,Lempster,Dan Feltes,D,145,False
+New Hampshire,Newport,Chris Sununu,R,2332,True
+New Hampshire,Newport,Dan Feltes,D,716,False
+New Hampshire,Plainfield,Chris Sununu,R,823,True
+New Hampshire,Plainfield,Dan Feltes,D,817,False
+New Hampshire,Springfield,Chris Sununu,R,569,True
+New Hampshire,Springfield,Dan Feltes,D,298,False
+New Hampshire,Sunapee,Chris Sununu,R,1617,True
+New Hampshire,Sunapee,Dan Feltes,D,764,False
+New Hampshire,Unity,Chris Sununu,R,674,True
+New Hampshire,Unity,Dan Feltes,D,189,False
+New Hampshire,Washington,Chris Sununu,R,577,True
+New Hampshire,Washington,Dan Feltes,D,207,False
+North Carolina,Alamance County,Dan Forest,R,42918,True
+North Carolina,Alamance County,Roy Cooper,D,41979,False
+North Carolina,Alexander County,Dan Forest,R,14980,True
+North Carolina,Alexander County,Roy Cooper,D,4980,False
+North Carolina,Alleghany County,Dan Forest,R,4085,True
+North Carolina,Alleghany County,Roy Cooper,D,1929,False
+North Carolina,Anson County,Roy Cooper,D,6116,True
+North Carolina,Anson County,Dan Forest,R,4977,False
+North Carolina,Ashe County,Dan Forest,R,10622,True
+North Carolina,Ashe County,Roy Cooper,D,4967,False
+North Carolina,Avery County,Dan Forest,R,6894,True
+North Carolina,Avery County,Roy Cooper,D,2407,False
+North Carolina,Beaufort County,Dan Forest,R,15710,True
+North Carolina,Beaufort County,Roy Cooper,D,10291,False
+North Carolina,Bertie County,Roy Cooper,D,6080,True
+North Carolina,Bertie County,Dan Forest,R,3654,False
+North Carolina,Bladen County,Dan Forest,R,9096,True
+North Carolina,Bladen County,Roy Cooper,D,7784,False
+North Carolina,Brunswick County,Dan Forest,R,51703,True
+North Carolina,Brunswick County,Roy Cooper,D,36818,False
+North Carolina,Buncombe County,Roy Cooper,D,99395,True
+North Carolina,Buncombe County,Dan Forest,R,58153,False
+North Carolina,Burke County,Dan Forest,R,28898,True
+North Carolina,Burke County,Roy Cooper,D,15028,False
+North Carolina,Cabarrus County,Dan Forest,R,59682,True
+North Carolina,Cabarrus County,Roy Cooper,D,54665,False
+North Carolina,Caldwell County,Dan Forest,R,30234,True
+North Carolina,Caldwell County,Roy Cooper,D,11926,False
+North Carolina,Camden County,Dan Forest,R,4200,True
+North Carolina,Camden County,Roy Cooper,D,1600,False
+North Carolina,Carteret County,Dan Forest,R,28689,True
+North Carolina,Carteret County,Roy Cooper,D,13293,False
+North Carolina,Caswell County,Dan Forest,R,6634,True
+North Carolina,Caswell County,Roy Cooper,D,5285,False
+North Carolina,Catawba County,Dan Forest,R,53802,True
+North Carolina,Catawba County,Roy Cooper,D,28267,False
+North Carolina,Chatham County,Roy Cooper,D,28128,True
+North Carolina,Chatham County,Dan Forest,R,19937,False
+North Carolina,Cherokee County,Dan Forest,R,12349,True
+North Carolina,Cherokee County,Roy Cooper,D,3772,False
+North Carolina,Chowan County,Dan Forest,R,4308,True
+North Carolina,Chowan County,Roy Cooper,D,3399,False
+North Carolina,Clay County,Dan Forest,R,4994,True
+North Carolina,Clay County,Roy Cooper,D,1761,False
+North Carolina,Cleveland County,Dan Forest,R,32031,True
+North Carolina,Cleveland County,Roy Cooper,D,18549,False
+North Carolina,Columbus County,Dan Forest,R,15713,True
+North Carolina,Columbus County,Roy Cooper,D,10309,False
+North Carolina,Craven County,Dan Forest,R,29614,True
+North Carolina,Craven County,Roy Cooper,D,22436,False
+North Carolina,Cumberland County,Roy Cooper,D,88278,True
+North Carolina,Cumberland County,Dan Forest,R,55197,False
+North Carolina,Currituck County,Dan Forest,R,11293,True
+North Carolina,Currituck County,Roy Cooper,D,4382,False
+North Carolina,Dare County,Dan Forest,R,13151,True
+North Carolina,Dare County,Roy Cooper,D,10485,False
+North Carolina,Davidson County,Dan Forest,R,60771,True
+North Carolina,Davidson County,Roy Cooper,D,26598,False
+North Carolina,Davie County,Dan Forest,R,17104,True
+North Carolina,Davie County,Roy Cooper,D,7904,False
+North Carolina,Duplin County,Dan Forest,R,13295,True
+North Carolina,Duplin County,Roy Cooper,D,9164,False
+North Carolina,Durham County,Roy Cooper,D,147110,True
+North Carolina,Durham County,Dan Forest,R,29989,False
+North Carolina,Edgecombe County,Roy Cooper,D,16786,True
+North Carolina,Edgecombe County,Dan Forest,R,8487,False
+North Carolina,Forsyth County,Roy Cooper,D,118663,True
+North Carolina,Forsyth County,Dan Forest,R,78475,False
+North Carolina,Franklin County,Dan Forest,R,19400,True
+North Carolina,Franklin County,Roy Cooper,D,17427,False
+North Carolina,Gaston County,Dan Forest,R,69158,True
+North Carolina,Gaston County,Roy Cooper,D,44074,False
+North Carolina,Gates County,Dan Forest,R,3163,True
+North Carolina,Gates County,Roy Cooper,D,2679,False
+North Carolina,Graham County,Dan Forest,R,3489,True
+North Carolina,Graham County,Roy Cooper,D,1104,False
+North Carolina,Granville County,Roy Cooper,D,15756,True
+North Carolina,Granville County,Dan Forest,R,15411,False
+North Carolina,Greene County,Dan Forest,R,4678,True
+North Carolina,Greene County,Roy Cooper,D,3991,False
+North Carolina,Guilford County,Roy Cooper,D,180160,True
+North Carolina,Guilford County,Dan Forest,R,97973,False
+North Carolina,Halifax County,Roy Cooper,D,16098,True
+North Carolina,Halifax County,Dan Forest,R,9403,False
+North Carolina,Harnett County,Dan Forest,R,33049,True
+North Carolina,Harnett County,Roy Cooper,D,23987,False
+North Carolina,Haywood County,Dan Forest,R,21185,True
+North Carolina,Haywood County,Roy Cooper,D,14779,False
+North Carolina,Henderson County,Dan Forest,R,38028,True
+North Carolina,Henderson County,Roy Cooper,D,29144,False
+North Carolina,Hertford County,Roy Cooper,D,7212,True
+North Carolina,Hertford County,Dan Forest,R,3282,False
+North Carolina,Hoke County,Roy Cooper,D,12597,True
+North Carolina,Hoke County,Dan Forest,R,8475,False
+North Carolina,Hyde County,Dan Forest,R,1351,True
+North Carolina,Hyde County,Roy Cooper,D,1111,False
+North Carolina,Iredell County,Dan Forest,R,63962,True
+North Carolina,Iredell County,Roy Cooper,D,36375,False
+North Carolina,Jackson County,Dan Forest,R,10519,True
+North Carolina,Jackson County,Roy Cooper,D,10406,False
+North Carolina,Johnston County,Dan Forest,R,64310,True
+North Carolina,Johnston County,Roy Cooper,D,45165,False
+North Carolina,Jones County,Dan Forest,R,3128,True
+North Carolina,Jones County,Roy Cooper,D,2333,False
+North Carolina,Lee County,Dan Forest,R,14937,True
+North Carolina,Lee County,Roy Cooper,D,13522,False
+North Carolina,Lenoir County,Roy Cooper,D,14208,True
+North Carolina,Lenoir County,Dan Forest,R,13906,False
+North Carolina,Lincoln County,Dan Forest,R,34711,True
+North Carolina,Lincoln County,Roy Cooper,D,14730,False
+North Carolina,McDowell County,Dan Forest,R,15761,True
+North Carolina,McDowell County,Roy Cooper,D,6851,False
+North Carolina,Macon County,Dan Forest,R,13333,True
+North Carolina,Macon County,Roy Cooper,D,7062,False
+North Carolina,Madison County,Dan Forest,R,7352,True
+North Carolina,Madison County,Roy Cooper,D,5489,False
+North Carolina,Martin County,Roy Cooper,D,6277,True
+North Carolina,Martin County,Dan Forest,R,6154,False
+North Carolina,Mecklenburg County,Roy Cooper,D,382726,True
+North Carolina,Mecklenburg County,Dan Forest,R,171123,False
+North Carolina,Mitchell County,Dan Forest,R,6827,True
+North Carolina,Mitchell County,Roy Cooper,D,2090,False
+North Carolina,Montgomery County,Dan Forest,R,7622,True
+North Carolina,Montgomery County,Roy Cooper,D,5069,False
+North Carolina,Moore County,Dan Forest,R,34311,True
+North Carolina,Moore County,Roy Cooper,D,22974,False
+North Carolina,Nash County,Roy Cooper,D,27692,True
+North Carolina,Nash County,Dan Forest,R,24062,False
+North Carolina,New Hanover County,Roy Cooper,D,69554,True
+North Carolina,New Hanover County,Dan Forest,R,59305,False
+North Carolina,Northampton County,Roy Cooper,D,6313,True
+North Carolina,Northampton County,Dan Forest,R,3689,False
+North Carolina,Onslow County,Dan Forest,R,43838,True
+North Carolina,Onslow County,Roy Cooper,D,25653,False
+North Carolina,Orange County,Roy Cooper,D,65042,True
+North Carolina,Orange County,Dan Forest,R,18810,False
+North Carolina,Pamlico County,Dan Forest,R,4672,True
+North Carolina,Pamlico County,Roy Cooper,D,2881,False
+North Carolina,Pasquotank County,Roy Cooper,D,10061,True
+North Carolina,Pasquotank County,Dan Forest,R,9449,False
+North Carolina,Pender County,Dan Forest,R,20854,True
+North Carolina,Pender County,Roy Cooper,D,12599,False
+North Carolina,Perquimans County,Dan Forest,R,4756,True
+North Carolina,Perquimans County,Roy Cooper,D,2637,False
+North Carolina,Person County,Dan Forest,R,12296,True
+North Carolina,Person County,Roy Cooper,D,9301,False
+North Carolina,Pitt County,Roy Cooper,D,48995,True
+North Carolina,Pitt County,Dan Forest,R,37210,False
+North Carolina,Polk County,Dan Forest,R,7280,True
+North Carolina,Polk County,Roy Cooper,D,4863,False
+North Carolina,Randolph County,Dan Forest,R,53176,True
+North Carolina,Randolph County,Roy Cooper,D,18929,False
+North Carolina,Richmond County,Dan Forest,R,10740,True
+North Carolina,Richmond County,Roy Cooper,D,9622,False
+North Carolina,Robeson County,Dan Forest,R,23888,True
+North Carolina,Robeson County,Roy Cooper,D,22281,False
+North Carolina,Rockingham County,Dan Forest,R,28891,True
+North Carolina,Rockingham County,Roy Cooper,D,18197,False
+North Carolina,Rowan County,Dan Forest,R,46676,True
+North Carolina,Rowan County,Roy Cooper,D,25473,False
+North Carolina,Rutherford County,Dan Forest,R,23437,True
+North Carolina,Rutherford County,Roy Cooper,D,10469,False
+North Carolina,Sampson County,Dan Forest,R,16404,True
+North Carolina,Sampson County,Roy Cooper,D,11890,False
+North Carolina,Scotland County,Roy Cooper,D,7671,True
+North Carolina,Scotland County,Dan Forest,R,6821,False
+North Carolina,Stanly County,Dan Forest,R,24022,True
+North Carolina,Stanly County,Roy Cooper,D,9413,False
+North Carolina,Stokes County,Dan Forest,R,18849,True
+North Carolina,Stokes County,Roy Cooper,D,6567,False
+North Carolina,Surry County,Dan Forest,R,25366,True
+North Carolina,Surry County,Roy Cooper,D,10872,False
+North Carolina,Swain County,Dan Forest,R,3847,True
+North Carolina,Swain County,Roy Cooper,D,3043,False
+North Carolina,Transylvania County,Dan Forest,R,10800,True
+North Carolina,Transylvania County,Roy Cooper,D,9226,False
+North Carolina,Tyrrell County,Dan Forest,R,975,True
+North Carolina,Tyrrell County,Roy Cooper,D,811,False
+North Carolina,Union County,Dan Forest,R,77305,True
+North Carolina,Union County,Roy Cooper,D,51306,False
+North Carolina,Vance County,Roy Cooper,D,13160,True
+North Carolina,Vance County,Dan Forest,R,7608,False
+North Carolina,Wake County,Roy Cooper,D,410386,True
+North Carolina,Wake County,Dan Forest,R,209183,False
+North Carolina,Warren County,Roy Cooper,D,6716,True
+North Carolina,Warren County,Dan Forest,R,3497,False
+North Carolina,Washington County,Roy Cooper,D,3531,True
+North Carolina,Washington County,Dan Forest,R,2623,False
+North Carolina,Watauga County,Roy Cooper,D,17642,True
+North Carolina,Watauga County,Dan Forest,R,13790,False
+North Carolina,Wayne County,Dan Forest,R,29056,True
+North Carolina,Wayne County,Roy Cooper,D,25589,False
+North Carolina,Wilkes County,Dan Forest,R,25469,True
+North Carolina,Wilkes County,Roy Cooper,D,9537,False
+North Carolina,Wilson County,Roy Cooper,D,22014,True
+North Carolina,Wilson County,Dan Forest,R,18305,False
+North Carolina,Yadkin County,Dan Forest,R,14910,True
+North Carolina,Yadkin County,Roy Cooper,D,4777,False
+North Carolina,Yancey County,Dan Forest,R,7105,True
+North Carolina,Yancey County,Roy Cooper,D,4147,False
+North Dakota,Adams County,Doug Burgum,R,1000,True
+North Dakota,Adams County,Shelley Lenz,D,163,False
+North Dakota,Barnes County,Doug Burgum,R,3775,True
+North Dakota,Barnes County,Shelley Lenz,D,1366,False
+North Dakota,Benson County,Doug Burgum,R,1098,True
+North Dakota,Benson County,Shelley Lenz,D,708,False
+North Dakota,Billings County,Doug Burgum,R,442,True
+North Dakota,Billings County,Shelley Lenz,D,57,False
+North Dakota,Bottineau County,Doug Burgum,R,2653,True
+North Dakota,Bottineau County,Shelley Lenz,D,588,False
+North Dakota,Bowman County,Doug Burgum,R,1254,True
+North Dakota,Bowman County,Shelley Lenz,D,171,False
+North Dakota,Burke County,Doug Burgum,R,860,True
+North Dakota,Burke County,Shelley Lenz,D,129,False
+North Dakota,Burleigh County,Doug Burgum,R,31067,True
+North Dakota,Burleigh County,Shelley Lenz,D,12064,False
+North Dakota,Cass County,Doug Burgum,R,50649,True
+North Dakota,Cass County,Shelley Lenz,D,31055,False
+North Dakota,Cavalier County,Doug Burgum,R,1551,True
+North Dakota,Cavalier County,Shelley Lenz,D,343,False
+North Dakota,Dickey County,Doug Burgum,R,1791,True
+North Dakota,Dickey County,Shelley Lenz,D,479,False
+North Dakota,Divide County,Doug Burgum,R,918,True
+North Dakota,Divide County,Shelley Lenz,D,200,False
+North Dakota,Dunn County,Doug Burgum,R,1711,True
+North Dakota,Dunn County,Shelley Lenz,D,280,False
+North Dakota,Eddy County,Doug Burgum,R,847,True
+North Dakota,Eddy County,Shelley Lenz,D,307,False
+North Dakota,Emmons County,Doug Burgum,R,1375,True
+North Dakota,Emmons County,Shelley Lenz,D,225,False
+North Dakota,Foster County,Doug Burgum,R,1317,True
+North Dakota,Foster County,Shelley Lenz,D,290,False
+North Dakota,Golden Valley County,Doug Burgum,R,792,True
+North Dakota,Golden Valley County,Shelley Lenz,D,105,False
+North Dakota,Grand Forks County,Doug Burgum,R,19150,True
+North Dakota,Grand Forks County,Shelley Lenz,D,10006,False
+North Dakota,Grant County,Doug Burgum,R,964,True
+North Dakota,Grant County,Shelley Lenz,D,171,False
+North Dakota,Griggs County,Doug Burgum,R,924,True
+North Dakota,Griggs County,Shelley Lenz,D,247,False
+North Dakota,Hettinger County,Doug Burgum,R,923,True
+North Dakota,Hettinger County,Shelley Lenz,D,153,False
+North Dakota,Kidder County,Doug Burgum,R,928,True
+North Dakota,Kidder County,Shelley Lenz,D,215,False
+North Dakota,LaMoure County,Doug Burgum,R,1666,True
+North Dakota,LaMoure County,Shelley Lenz,D,391,False
+North Dakota,Logan County,Doug Burgum,R,739,True
+North Dakota,Logan County,Shelley Lenz,D,109,False
+North Dakota,McHenry County,Doug Burgum,R,2211,True
+North Dakota,McHenry County,Shelley Lenz,D,447,False
+North Dakota,McIntosh County,Doug Burgum,R,1109,True
+North Dakota,McIntosh County,Shelley Lenz,D,201,False
+North Dakota,McKenzie County,Doug Burgum,R,4305,True
+North Dakota,McKenzie County,Shelley Lenz,D,659,False
+North Dakota,McLean County,Doug Burgum,R,3466,True
+North Dakota,McLean County,Shelley Lenz,D,1094,False
+North Dakota,Mercer County,Doug Burgum,R,3352,True
+North Dakota,Mercer County,Shelley Lenz,D,591,False
+North Dakota,Morton County,Doug Burgum,R,10254,True
+North Dakota,Morton County,Shelley Lenz,D,3341,False
+North Dakota,Mountrail County,Doug Burgum,R,2691,True
+North Dakota,Mountrail County,Shelley Lenz,D,1072,False
+North Dakota,Nelson County,Doug Burgum,R,1192,True
+North Dakota,Nelson County,Shelley Lenz,D,504,False
+North Dakota,Oliver County,Doug Burgum,R,741,True
+North Dakota,Oliver County,Shelley Lenz,D,123,False
+North Dakota,Pembina County,Doug Burgum,R,2451,True
+North Dakota,Pembina County,Shelley Lenz,D,625,False
+North Dakota,Pierce County,Doug Burgum,R,1522,True
+North Dakota,Pierce County,Shelley Lenz,D,373,False
+North Dakota,Ramsey County,Doug Burgum,R,3761,True
+North Dakota,Ramsey County,Shelley Lenz,D,1239,False
+North Dakota,Ransom County,Doug Burgum,R,1603,True
+North Dakota,Ransom County,Shelley Lenz,D,693,False
+North Dakota,Renville County,Doug Burgum,R,1064,True
+North Dakota,Renville County,Shelley Lenz,D,168,False
+North Dakota,Richland County,Doug Burgum,R,5458,True
+North Dakota,Richland County,Shelley Lenz,D,1963,False
+North Dakota,Rolette County,Shelley Lenz,D,2151,True
+North Dakota,Rolette County,Doug Burgum,R,1496,False
+North Dakota,Sargent County,Doug Burgum,R,1414,True
+North Dakota,Sargent County,Shelley Lenz,D,571,False
+North Dakota,Sheridan County,Doug Burgum,R,516,True
+North Dakota,Sheridan County,Shelley Lenz,D,101,False
+North Dakota,Sioux County,Shelley Lenz,D,667,True
+North Dakota,Sioux County,Doug Burgum,R,340,False
+North Dakota,Slope County,Doug Burgum,R,329,True
+North Dakota,Slope County,Shelley Lenz,D,40,False
+North Dakota,Stark County,Doug Burgum,R,10499,True
+North Dakota,Stark County,Shelley Lenz,D,1977,False
+North Dakota,Steele County,Doug Burgum,R,714,True
+North Dakota,Steele County,Shelley Lenz,D,333,False
+North Dakota,Stutsman County,Doug Burgum,R,7071,True
+North Dakota,Stutsman County,Shelley Lenz,D,1992,False
+North Dakota,Towner County,Doug Burgum,R,861,True
+North Dakota,Towner County,Shelley Lenz,D,234,False
+North Dakota,Traill County,Doug Burgum,R,2755,True
+North Dakota,Traill County,Shelley Lenz,D,1201,False
+North Dakota,Walsh County,Doug Burgum,R,3461,True
+North Dakota,Walsh County,Shelley Lenz,D,975,False
+North Dakota,Ward County,Doug Burgum,R,20295,True
+North Dakota,Ward County,Shelley Lenz,D,5587,False
+North Dakota,Wells County,Doug Burgum,R,1606,True
+North Dakota,Wells County,Shelley Lenz,D,356,False
+North Dakota,Williams County,Doug Burgum,R,10548,True
+North Dakota,Williams County,Shelley Lenz,D,1689,False
+Utah,Beaver County,Spencer Cox,R,2468,True
+Utah,Beaver County,Chris Peterson,D,291,False
+Utah,Box Elder County,Spencer Cox,R,20642,True
+Utah,Box Elder County,Chris Peterson,D,3507,False
+Utah,Cache County,Spencer Cox,R,39952,True
+Utah,Cache County,Chris Peterson,D,12943,False
+Utah,Carbon County,Spencer Cox,R,6506,True
+Utah,Carbon County,Chris Peterson,D,2091,False
+Utah,Daggett County,Spencer Cox,R,469,True
+Utah,Daggett County,Chris Peterson,D,91,False
+Utah,Davis County,Spencer Cox,R,115501,True
+Utah,Davis County,Chris Peterson,D,41101,False
+Utah,Duchesne County,Spencer Cox,R,6096,True
+Utah,Duchesne County,Chris Peterson,D,739,False
+Utah,Emery County,Spencer Cox,R,3918,True
+Utah,Emery County,Chris Peterson,D,489,False
+Utah,Garfield County,Spencer Cox,R,2123,True
+Utah,Garfield County,Chris Peterson,D,428,False
+Utah,Grand County,Chris Peterson,D,2499,True
+Utah,Grand County,Spencer Cox,R,2303,False
+Utah,Iron County,Spencer Cox,R,17650,True
+Utah,Iron County,Chris Peterson,D,3854,False
+Utah,Juab County,Spencer Cox,R,4606,True
+Utah,Juab County,Chris Peterson,D,470,False
+Utah,Kane County,Spencer Cox,R,2802,True
+Utah,Kane County,Chris Peterson,D,918,False
+Utah,Millard County,Spencer Cox,R,4528,True
+Utah,Millard County,Chris Peterson,D,519,False
+Utah,Morgan County,Spencer Cox,R,5190,True
+Utah,Morgan County,Chris Peterson,D,770,False
+Utah,Piute County,Spencer Cox,R,672,True
+Utah,Piute County,Chris Peterson,D,65,False
+Utah,Rich County,Spencer Cox,R,1081,True
+Utah,Rich County,Chris Peterson,D,158,False
+Utah,Salt Lake County,Spencer Cox,R,266177,True
+Utah,Salt Lake County,Chris Peterson,D,238249,False
+Utah,San Juan County,Spencer Cox,R,3477,True
+Utah,San Juan County,Chris Peterson,D,2642,False
+Utah,Sanpete County,Spencer Cox,R,10326,True
+Utah,Sanpete County,Chris Peterson,D,1012,False
+Utah,Sevier County,Spencer Cox,R,8364,True
+Utah,Sevier County,Chris Peterson,D,882,False
+Utah,Summit County,Chris Peterson,D,13066,True
+Utah,Summit County,Spencer Cox,R,11290,False
+Utah,Tooele County,Spencer Cox,R,21293,True
+Utah,Tooele County,Chris Peterson,D,7058,False
+Utah,Uintah County,Spencer Cox,R,10290,True
+Utah,Uintah County,Chris Peterson,D,1482,False
+Utah,Utah County,Spencer Cox,R,208514,True
+Utah,Utah County,Chris Peterson,D,52524,False
+Utah,Wasatch County,Spencer Cox,R,11472,True
+Utah,Wasatch County,Chris Peterson,D,4911,False
+Utah,Washington County,Spencer Cox,R,61125,True
+Utah,Washington County,Chris Peterson,D,16698,False
+Utah,Wayne County,Spencer Cox,R,1115,True
+Utah,Wayne County,Chris Peterson,D,321,False
+Utah,Weber County,Spencer Cox,R,68804,True
+Utah,Weber County,Chris Peterson,D,32976,False
+Vermont,Jamaica,Phil Scott,R,342,True
+Vermont,Jamaica,David Zuckerman,D,211,False
+Vermont,Jay,Phil Scott,R,207,True
+Vermont,Jay,David Zuckerman,D,60,False
+Vermont,Jericho,Phil Scott,R,2663,True
+Vermont,Jericho,David Zuckerman,D,903,False
+Vermont,Johnson,Phil Scott,R,1066,True
+Vermont,Johnson,David Zuckerman,D,451,False
+Vermont,Kirby,Phil Scott,R,241,True
+Vermont,Kirby,David Zuckerman,D,77,False
+Vermont,Landgrove,Phil Scott,R,99,True
+Vermont,Landgrove,David Zuckerman,D,36,False
+Vermont,Leicester,Phil Scott,R,402,True
+Vermont,Leicester,David Zuckerman,D,104,False
+Vermont,Lemington,Phil Scott,R,39,True
+Vermont,Lemington,David Zuckerman,D,9,False
+Vermont,Lincoln,Phil Scott,R,573,True
+Vermont,Lincoln,David Zuckerman,D,350,False
+Vermont,Londonderry,Phil Scott,R,752,True
+Vermont,Londonderry,David Zuckerman,D,313,False
+Vermont,Barnet,Phil Scott,R,769,True
+Vermont,Barnet,David Zuckerman,D,254,False
+Vermont,Lowell,Phil Scott,R,330,True
+Vermont,Lowell,David Zuckerman,D,102,False
+Vermont,Ludlow,Phil Scott,R,865,True
+Vermont,Ludlow,David Zuckerman,D,296,False
+Vermont,Lunenburg,Phil Scott,R,451,True
+Vermont,Lunenburg,David Zuckerman,D,110,False
+Vermont,Lyndon,Phil Scott,R,1865,True
+Vermont,Lyndon,David Zuckerman,D,422,False
+Vermont,Maidstone,Phil Scott,R,121,True
+Vermont,Maidstone,David Zuckerman,D,12,False
+Vermont,Manchester,Phil Scott,R,1809,True
+Vermont,Manchester,David Zuckerman,D,787,False
+Vermont,Marlboro,David Zuckerman,D,368,True
+Vermont,Marlboro,Phil Scott,R,255,False
+Vermont,Marshfield,Phil Scott,R,641,True
+Vermont,Marshfield,David Zuckerman,D,287,False
+Vermont,Mendon,Phil Scott,R,577,True
+Vermont,Mendon,David Zuckerman,D,176,False
+Vermont,Middlebury,Phil Scott,R,2545,True
+Vermont,Middlebury,David Zuckerman,D,1625,False
+Vermont,Barre,Phil Scott,R,2799,True
+Vermont,Barre,David Zuckerman,D,829,False
+Vermont,Middlesex,Phil Scott,R,819,True
+Vermont,Middlesex,David Zuckerman,D,397,False
+Vermont,Middletown Springs,Phil Scott,R,367,True
+Vermont,Middletown Springs,David Zuckerman,D,160,False
+Vermont,Milton,Phil Scott,R,4877,True
+Vermont,Milton,David Zuckerman,D,1010,False
+Vermont,Monkton,Phil Scott,R,1010,True
+Vermont,Monkton,David Zuckerman,D,358,False
+Vermont,Montgomery,Phil Scott,R,457,True
+Vermont,Montgomery,David Zuckerman,D,244,False
+Vermont,Montpelier,Phil Scott,R,2724,True
+Vermont,Montpelier,David Zuckerman,D,2264,False
+Vermont,Moretown,Phil Scott,R,831,True
+Vermont,Moretown,David Zuckerman,D,338,False
+Vermont,Morgan,Phil Scott,R,335,True
+Vermont,Morgan,David Zuckerman,D,41,False
+Vermont,Morristown,Phil Scott,R,2265,True
+Vermont,Morristown,David Zuckerman,D,790,False
+Vermont,Mount Holly,Phil Scott,R,584,True
+Vermont,Mount Holly,David Zuckerman,D,206,False
+Vermont,Barre Town,Phil Scott,R,3997,True
+Vermont,Barre Town,David Zuckerman,D,590,False
+Vermont,Mount Tabor,Phil Scott,R,83,True
+Vermont,Mount Tabor,David Zuckerman,D,21,False
+Vermont,Newark,Phil Scott,R,259,True
+Vermont,Newark,David Zuckerman,D,55,False
+Vermont,Newbury,Phil Scott,R,891,True
+Vermont,Newbury,David Zuckerman,D,249,False
+Vermont,Newfane,Phil Scott,R,581,True
+Vermont,Newfane,David Zuckerman,D,471,False
+Vermont,New Haven,Phil Scott,R,901,True
+Vermont,New Haven,David Zuckerman,D,232,False
+Vermont,Newport,Phil Scott,R,1309,True
+Vermont,Newport,David Zuckerman,D,379,False
+Vermont,Newport Town,Phil Scott,R,611,True
+Vermont,Newport Town,David Zuckerman,D,118,False
+Vermont,Northfield,Phil Scott,R,1891,True
+Vermont,Northfield,David Zuckerman,D,474,False
+Vermont,North Hero,Phil Scott,R,556,True
+Vermont,North Hero,David Zuckerman,D,135,False
+Vermont,Norton,Phil Scott,R,83,True
+Vermont,Norton,David Zuckerman,D,18,False
+Vermont,Barton,Phil Scott,R,931,True
+Vermont,Barton,David Zuckerman,D,257,False
+Vermont,Norwich,Phil Scott,R,1307,True
+Vermont,Norwich,David Zuckerman,D,1143,False
+Vermont,Orange,Phil Scott,R,499,True
+Vermont,Orange,David Zuckerman,D,74,False
+Vermont,Orwell,Phil Scott,R,593,True
+Vermont,Orwell,David Zuckerman,D,111,False
+Vermont,Panton,Phil Scott,R,307,True
+Vermont,Panton,David Zuckerman,D,96,False
+Vermont,Pawlet,Phil Scott,R,571,True
+Vermont,Pawlet,David Zuckerman,D,270,False
+Vermont,Peacham,Phil Scott,R,365,True
+Vermont,Peacham,David Zuckerman,D,131,False
+Vermont,Peru,Phil Scott,R,168,True
+Vermont,Peru,David Zuckerman,D,116,False
+Vermont,Pittsfield,Phil Scott,R,223,True
+Vermont,Pittsfield,David Zuckerman,D,94,False
+Vermont,Pittsford,Phil Scott,R,1304,True
+Vermont,Pittsford,David Zuckerman,D,297,False
+Vermont,Plainfield,Phil Scott,R,443,True
+Vermont,Plainfield,David Zuckerman,D,341,False
+Vermont,Belvidere,Phil Scott,R,139,True
+Vermont,Belvidere,David Zuckerman,D,28,False
+Vermont,Plymouth,Phil Scott,R,271,True
+Vermont,Plymouth,David Zuckerman,D,88,False
+Vermont,Pomfret,Phil Scott,R,469,True
+Vermont,Pomfret,David Zuckerman,D,188,False
+Vermont,Poultney,Phil Scott,R,1181,True
+Vermont,Poultney,David Zuckerman,D,360,False
+Vermont,Pownal,Phil Scott,R,999,True
+Vermont,Pownal,David Zuckerman,D,457,False
+Vermont,Proctor,Phil Scott,R,732,True
+Vermont,Proctor,David Zuckerman,D,178,False
+Vermont,Putney,David Zuckerman,D,805,True
+Vermont,Putney,Phil Scott,R,592,False
+Vermont,Randolph,Phil Scott,R,1866,True
+Vermont,Randolph,David Zuckerman,D,628,False
+Vermont,Reading,Phil Scott,R,308,True
+Vermont,Reading,David Zuckerman,D,123,False
+Vermont,Readsboro,Phil Scott,R,249,True
+Vermont,Readsboro,David Zuckerman,D,123,False
+Vermont,Richford,Phil Scott,R,674,True
+Vermont,Richford,David Zuckerman,D,172,False
+Vermont,Bennington,Phil Scott,R,3785,True
+Vermont,Bennington,David Zuckerman,D,2157,False
+Vermont,Richmond,Phil Scott,R,1979,True
+Vermont,Richmond,David Zuckerman,D,895,False
+Vermont,Ripton,Phil Scott,R,189,True
+Vermont,Ripton,David Zuckerman,D,165,False
+Vermont,Rochester,Phil Scott,R,457,True
+Vermont,Rochester,David Zuckerman,D,239,False
+Vermont,Rockingham,Phil Scott,R,1510,True
+Vermont,Rockingham,David Zuckerman,D,805,False
+Vermont,Roxbury,Phil Scott,R,308,True
+Vermont,Roxbury,David Zuckerman,D,107,False
+Vermont,Royalton,Phil Scott,R,1016,True
+Vermont,Royalton,David Zuckerman,D,371,False
+Vermont,Rupert,Phil Scott,R,266,True
+Vermont,Rupert,David Zuckerman,D,136,False
+Vermont,Rutland,Phil Scott,R,5668,True
+Vermont,Rutland,David Zuckerman,D,1778,False
+Vermont,Rutland Town,Phil Scott,R,1970,True
+Vermont,Rutland Town,David Zuckerman,D,407,False
+Vermont,Ryegate,Phil Scott,R,492,True
+Vermont,Ryegate,David Zuckerman,D,109,False
+Vermont,Benson,Phil Scott,R,414,True
+Vermont,Benson,David Zuckerman,D,99,False
+Vermont,St. Albans,Phil Scott,R,2144,True
+Vermont,St. Albans,David Zuckerman,D,713,False
+Vermont,St. Albans Town,Phil Scott,R,3028,True
+Vermont,St. Albans Town,David Zuckerman,D,579,False
+Vermont,St. George,Phil Scott,R,322,True
+Vermont,St. George,David Zuckerman,D,112,False
+Vermont,St. Johnsbury,Phil Scott,R,2312,True
+Vermont,St. Johnsbury,David Zuckerman,D,837,False
+Vermont,Salisbury,Phil Scott,R,502,True
+Vermont,Salisbury,David Zuckerman,D,158,False
+Vermont,Sandgate,Phil Scott,R,136,True
+Vermont,Sandgate,David Zuckerman,D,84,False
+Vermont,Searsburg,Phil Scott,R,47,True
+Vermont,Searsburg,David Zuckerman,D,14,False
+Vermont,Shaftsbury,Phil Scott,R,1336,True
+Vermont,Shaftsbury,David Zuckerman,D,648,False
+Vermont,Sharon,Phil Scott,R,589,True
+Vermont,Sharon,David Zuckerman,D,272,False
+Vermont,Sheffield,Phil Scott,R,256,True
+Vermont,Sheffield,David Zuckerman,D,82,False
+Vermont,Berkshire,Phil Scott,R,549,True
+Vermont,Berkshire,David Zuckerman,D,107,False
+Vermont,Shelburne,Phil Scott,R,3802,True
+Vermont,Shelburne,David Zuckerman,D,1482,False
+Vermont,Sheldon,Phil Scott,R,819,True
+Vermont,Sheldon,David Zuckerman,D,113,False
+Vermont,Killington,Phil Scott,R,578,True
+Vermont,Killington,David Zuckerman,D,217,False
+Vermont,Shoreham,Phil Scott,R,527,True
+Vermont,Shoreham,David Zuckerman,D,185,False
+Vermont,Shrewsbury,Phil Scott,R,464,True
+Vermont,Shrewsbury,David Zuckerman,D,181,False
+Vermont,South Burlington,Phil Scott,R,8480,True
+Vermont,South Burlington,David Zuckerman,D,3775,False
+Vermont,South Hero,Phil Scott,R,1015,True
+Vermont,South Hero,David Zuckerman,D,264,False
+Vermont,Springfield,Phil Scott,R,3032,True
+Vermont,Springfield,David Zuckerman,D,1082,False
+Vermont,Stamford,Phil Scott,R,329,True
+Vermont,Stamford,David Zuckerman,D,102,False
+Vermont,Stannard,Phil Scott,R,70,True
+Vermont,Stannard,David Zuckerman,D,39,False
+Vermont,Berlin,Phil Scott,R,1176,True
+Vermont,Berlin,David Zuckerman,D,316,False
+Vermont,Starksboro,Phil Scott,R,698,True
+Vermont,Starksboro,David Zuckerman,D,289,False
+Vermont,Stockbridge,Phil Scott,R,340,True
+Vermont,Stockbridge,David Zuckerman,D,120,False
+Vermont,Stowe,Phil Scott,R,2454,True
+Vermont,Stowe,David Zuckerman,D,875,False
+Vermont,Strafford,Phil Scott,R,444,True
+Vermont,Strafford,David Zuckerman,D,331,False
+Vermont,Stratton,Phil Scott,R,135,True
+Vermont,Stratton,David Zuckerman,D,54,False
+Vermont,Sudbury,Phil Scott,R,279,True
+Vermont,Sudbury,David Zuckerman,D,99,False
+Vermont,Sunderland,Phil Scott,R,423,True
+Vermont,Sunderland,David Zuckerman,D,159,False
+Vermont,Sutton,Phil Scott,R,392,True
+Vermont,Sutton,David Zuckerman,D,99,False
+Vermont,Swanton,Phil Scott,R,2609,True
+Vermont,Swanton,David Zuckerman,D,426,False
+Vermont,Thetford,Phil Scott,R,1155,True
+Vermont,Thetford,David Zuckerman,D,683,False
+Vermont,Bethel,Phil Scott,R,772,True
+Vermont,Bethel,David Zuckerman,D,316,False
+Vermont,Addison,Phil Scott,R,680,True
+Vermont,Addison,David Zuckerman,D,145,False
+Vermont,Tinmouth,Phil Scott,R,242,True
+Vermont,Tinmouth,David Zuckerman,D,81,False
+Vermont,Topsham,Phil Scott,R,494,True
+Vermont,Topsham,David Zuckerman,D,105,False
+Vermont,Townshend,Phil Scott,R,417,True
+Vermont,Townshend,David Zuckerman,D,284,False
+Vermont,Troy,Phil Scott,R,574,True
+Vermont,Troy,David Zuckerman,D,144,False
+Vermont,Tunbridge,Phil Scott,R,606,True
+Vermont,Tunbridge,David Zuckerman,D,225,False
+Vermont,Underhill,Phil Scott,R,1538,True
+Vermont,Underhill,David Zuckerman,D,643,False
+Vermont,Vergennes,Phil Scott,R,1034,True
+Vermont,Vergennes,David Zuckerman,D,420,False
+Vermont,Vernon,Phil Scott,R,890,True
+Vermont,Vernon,David Zuckerman,D,277,False
+Vermont,Vershire,Phil Scott,R,249,True
+Vermont,Vershire,David Zuckerman,D,155,False
+Vermont,Victory,Phil Scott,R,47,True
+Vermont,Victory,David Zuckerman,D,5,False
+Vermont,Bloomfield,Phil Scott,R,92,True
+Vermont,Bloomfield,David Zuckerman,D,29,False
+Vermont,Waitsfield,Phil Scott,R,816,True
+Vermont,Waitsfield,David Zuckerman,D,388,False
+Vermont,Walden,Phil Scott,R,395,True
+Vermont,Walden,David Zuckerman,D,158,False
+Vermont,Wallingford,Phil Scott,R,907,True
+Vermont,Wallingford,David Zuckerman,D,301,False
+Vermont,Waltham,Phil Scott,R,236,True
+Vermont,Waltham,David Zuckerman,D,85,False
+Vermont,Wardsboro,Phil Scott,R,324,True
+Vermont,Wardsboro,David Zuckerman,D,145,False
+Vermont,Warren,Phil Scott,R,761,True
+Vermont,Warren,David Zuckerman,D,458,False
+Vermont,Washington,Phil Scott,R,458,True
+Vermont,Washington,David Zuckerman,D,108,False
+Vermont,Waterbury,Phil Scott,R,2453,True
+Vermont,Waterbury,David Zuckerman,D,937,False
+Vermont,Waterford,Phil Scott,R,635,True
+Vermont,Waterford,David Zuckerman,D,142,False
+Vermont,Waterville,Phil Scott,R,347,True
+Vermont,Waterville,David Zuckerman,D,75,False
+Vermont,Bolton,Phil Scott,R,553,True
+Vermont,Bolton,David Zuckerman,D,209,False
+Vermont,Weathersfield,Phil Scott,R,1334,True
+Vermont,Weathersfield,David Zuckerman,D,361,False
+Vermont,Wells,Phil Scott,R,544,True
+Vermont,Wells,David Zuckerman,D,136,False
+Vermont,West Fairlee,Phil Scott,R,239,True
+Vermont,West Fairlee,David Zuckerman,D,100,False
+Vermont,Westfield,Phil Scott,R,248,True
+Vermont,Westfield,David Zuckerman,D,75,False
+Vermont,Westford,Phil Scott,R,1068,True
+Vermont,Westford,David Zuckerman,D,325,False
+Vermont,West Haven,Phil Scott,R,104,True
+Vermont,West Haven,David Zuckerman,D,25,False
+Vermont,Westminster,Phil Scott,R,878,True
+Vermont,Westminster,David Zuckerman,D,779,False
+Vermont,Westmore,Phil Scott,R,172,True
+Vermont,Westmore,David Zuckerman,D,48,False
+Vermont,Weston,Phil Scott,R,316,True
+Vermont,Weston,David Zuckerman,D,126,False
+Vermont,West Rutland,Phil Scott,R,883,True
+Vermont,West Rutland,David Zuckerman,D,178,False
+Vermont,Bradford,Phil Scott,R,1045,True
+Vermont,Bradford,David Zuckerman,D,371,False
+Vermont,West Windsor,Phil Scott,R,588,True
+Vermont,West Windsor,David Zuckerman,D,222,False
+Vermont,Weybridge,Phil Scott,R,380,True
+Vermont,Weybridge,David Zuckerman,D,221,False
+Vermont,Wheelock,Phil Scott,R,301,True
+Vermont,Wheelock,David Zuckerman,D,112,False
+Vermont,Whiting,Phil Scott,R,145,True
+Vermont,Whiting,David Zuckerman,D,43,False
+Vermont,Whitingham,Phil Scott,R,484,True
+Vermont,Whitingham,David Zuckerman,D,190,False
+Vermont,Williamstown,Phil Scott,R,1526,True
+Vermont,Williamstown,David Zuckerman,D,231,False
+Vermont,Williston,Phil Scott,R,5158,True
+Vermont,Williston,David Zuckerman,D,1552,False
+Vermont,Wilmington,Phil Scott,R,694,True
+Vermont,Wilmington,David Zuckerman,D,381,False
+Vermont,Windham,Phil Scott,R,192,True
+Vermont,Windham,David Zuckerman,D,69,False
+Vermont,Windsor,Phil Scott,R,1225,True
+Vermont,Windsor,David Zuckerman,D,525,False
+Vermont,Braintree,Phil Scott,R,525,True
+Vermont,Braintree,David Zuckerman,D,157,False
+Vermont,Winhall,Phil Scott,R,447,True
+Vermont,Winhall,David Zuckerman,D,189,False
+Vermont,Winooski,Phil Scott,R,1947,True
+Vermont,Winooski,David Zuckerman,D,1575,False
+Vermont,Wolcott,Phil Scott,R,662,True
+Vermont,Wolcott,David Zuckerman,D,224,False
+Vermont,Woodbury,Phil Scott,R,396,True
+Vermont,Woodbury,David Zuckerman,D,159,False
+Vermont,Woodford,Phil Scott,R,110,True
+Vermont,Woodford,David Zuckerman,D,51,False
+Vermont,Woodstock,Phil Scott,R,1446,True
+Vermont,Woodstock,David Zuckerman,D,582,False
+Vermont,Worcester,Phil Scott,R,362,True
+Vermont,Worcester,David Zuckerman,D,239,False
+Vermont,Brandon,Phil Scott,R,1544,True
+Vermont,Brandon,David Zuckerman,D,507,False
+Vermont,Brattleboro,David Zuckerman,D,3264,True
+Vermont,Brattleboro,Phil Scott,R,2855,False
+Vermont,Bridgewater,Phil Scott,R,433,True
+Vermont,Bridgewater,David Zuckerman,D,138,False
+Vermont,Bridport,Phil Scott,R,577,True
+Vermont,Bridport,David Zuckerman,D,135,False
+Vermont,Brighton,Phil Scott,R,409,True
+Vermont,Brighton,David Zuckerman,D,98,False
+Vermont,Bristol,Phil Scott,R,1542,True
+Vermont,Bristol,David Zuckerman,D,625,False
+Vermont,Albany,Phil Scott,R,393,True
+Vermont,Albany,David Zuckerman,D,106,False
+Vermont,Brookfield,Phil Scott,R,604,True
+Vermont,Brookfield,David Zuckerman,D,203,False
+Vermont,Brookline,Phil Scott,R,189,True
+Vermont,Brookline,David Zuckerman,D,127,False
+Vermont,Brownington,Phil Scott,R,360,True
+Vermont,Brownington,David Zuckerman,D,75,False
+Vermont,Brunswick,Phil Scott,R,59,True
+Vermont,Brunswick,David Zuckerman,D,6,False
+Vermont,Burke,Phil Scott,R,695,True
+Vermont,Burke,David Zuckerman,D,181,False
+Vermont,Burlington,David Zuckerman,D,10600,True
+Vermont,Burlington,Phil Scott,R,10548,False
+Vermont,Cabot,Phil Scott,R,658,True
+Vermont,Cabot,David Zuckerman,D,202,False
+Vermont,Calais,Phil Scott,R,663,True
+Vermont,Calais,David Zuckerman,D,436,False
+Vermont,Cambridge,Phil Scott,R,1582,True
+Vermont,Cambridge,David Zuckerman,D,540,False
+Vermont,Canaan,Phil Scott,R,375,True
+Vermont,Canaan,David Zuckerman,D,84,False
+Vermont,Alburgh,Phil Scott,R,817,True
+Vermont,Alburgh,David Zuckerman,D,195,False
+Vermont,Castleton,Phil Scott,R,1584,True
+Vermont,Castleton,David Zuckerman,D,411,False
+Vermont,Cavendish,Phil Scott,R,565,True
+Vermont,Cavendish,David Zuckerman,D,177,False
+Vermont,Charleston,Phil Scott,R,376,True
+Vermont,Charleston,David Zuckerman,D,105,False
+Vermont,Charlotte,Phil Scott,R,1979,True
+Vermont,Charlotte,David Zuckerman,D,838,False
+Vermont,Chelsea,Phil Scott,R,552,True
+Vermont,Chelsea,David Zuckerman,D,143,False
+Vermont,Chester,Phil Scott,R,1202,True
+Vermont,Chester,David Zuckerman,D,428,False
+Vermont,Chittenden,Phil Scott,R,632,True
+Vermont,Chittenden,David Zuckerman,D,179,False
+Vermont,Clarendon,Phil Scott,R,1143,True
+Vermont,Clarendon,David Zuckerman,D,235,False
+Vermont,Colchester,Phil Scott,R,7187,True
+Vermont,Colchester,David Zuckerman,D,2099,False
+Vermont,Concord,Phil Scott,R,479,True
+Vermont,Concord,David Zuckerman,D,100,False
+Vermont,Andover,Phil Scott,R,244,True
+Vermont,Andover,David Zuckerman,D,93,False
+Vermont,Corinth,Phil Scott,R,578,True
+Vermont,Corinth,David Zuckerman,D,204,False
+Vermont,Cornwall,Phil Scott,R,566,True
+Vermont,Cornwall,David Zuckerman,D,268,False
+Vermont,Coventry,Phil Scott,R,428,True
+Vermont,Coventry,David Zuckerman,D,97,False
+Vermont,Craftsbury,Phil Scott,R,514,True
+Vermont,Craftsbury,David Zuckerman,D,216,False
+Vermont,Danby,Phil Scott,R,543,True
+Vermont,Danby,David Zuckerman,D,154,False
+Vermont,Danville,Phil Scott,R,1135,True
+Vermont,Danville,David Zuckerman,D,279,False
+Vermont,Derby,Phil Scott,R,1924,True
+Vermont,Derby,David Zuckerman,D,414,False
+Vermont,Dorset,Phil Scott,R,928,True
+Vermont,Dorset,David Zuckerman,D,402,False
+Vermont,Dover,Phil Scott,R,630,True
+Vermont,Dover,David Zuckerman,D,261,False
+Vermont,Dummerston,Phil Scott,R,663,True
+Vermont,Dummerston,David Zuckerman,D,610,False
+Vermont,Arlington,Phil Scott,R,922,True
+Vermont,Arlington,David Zuckerman,D,385,False
+Vermont,Duxbury,Phil Scott,R,662,True
+Vermont,Duxbury,David Zuckerman,D,225,False
+Vermont,East Haven,Phil Scott,R,96,True
+Vermont,East Haven,David Zuckerman,D,33,False
+Vermont,East Montpelier,Phil Scott,R,1139,True
+Vermont,East Montpelier,David Zuckerman,D,553,False
+Vermont,Eden,Phil Scott,R,452,True
+Vermont,Eden,David Zuckerman,D,132,False
+Vermont,Elmore,Phil Scott,R,446,True
+Vermont,Elmore,David Zuckerman,D,144,False
+Vermont,Enosburgh,Phil Scott,R,1004,True
+Vermont,Enosburgh,David Zuckerman,D,198,False
+Vermont,Essex,Phil Scott,R,9874,True
+Vermont,Essex,David Zuckerman,D,3085,False
+Vermont,Fairfax,Phil Scott,R,2367,True
+Vermont,Fairfax,David Zuckerman,D,507,False
+Vermont,Fairfield,Phil Scott,R,890,True
+Vermont,Fairfield,David Zuckerman,D,189,False
+Vermont,Fair Haven,Phil Scott,R,948,True
+Vermont,Fair Haven,David Zuckerman,D,243,False
+Vermont,Athens,Phil Scott,R,128,True
+Vermont,Athens,David Zuckerman,D,67,False
+Vermont,Fairlee,Phil Scott,R,443,True
+Vermont,Fairlee,David Zuckerman,D,165,False
+Vermont,Fayston,Phil Scott,R,649,True
+Vermont,Fayston,David Zuckerman,D,293,False
+Vermont,Ferrisburg,Phil Scott,R,1326,True
+Vermont,Ferrisburg,David Zuckerman,D,449,False
+Vermont,Fletcher,Phil Scott,R,613,True
+Vermont,Fletcher,David Zuckerman,D,186,False
+Vermont,Franklin,Phil Scott,R,621,True
+Vermont,Franklin,David Zuckerman,D,84,False
+Vermont,Georgia,Phil Scott,R,2386,True
+Vermont,Georgia,David Zuckerman,D,391,False
+Vermont,Glover,Phil Scott,R,465,True
+Vermont,Glover,David Zuckerman,D,162,False
+Vermont,Goshen,Phil Scott,R,76,True
+Vermont,Goshen,David Zuckerman,D,48,False
+Vermont,Grafton,Phil Scott,R,291,True
+Vermont,Grafton,David Zuckerman,D,104,False
+Vermont,Granby,Phil Scott,R,27,True
+Vermont,Granby,David Zuckerman,D,13,False
+Vermont,Bakersfield,Phil Scott,R,539,True
+Vermont,Bakersfield,David Zuckerman,D,128,False
+Vermont,Grand Isle,Phil Scott,R,1109,True
+Vermont,Grand Isle,David Zuckerman,D,254,False
+Vermont,Granville,Phil Scott,R,106,True
+Vermont,Granville,David Zuckerman,D,57,False
+Vermont,Greensboro,Phil Scott,R,312,True
+Vermont,Greensboro,David Zuckerman,D,161,False
+Vermont,Groton,Phil Scott,R,411,True
+Vermont,Groton,David Zuckerman,D,97,False
+Vermont,Guildhall,Phil Scott,R,130,True
+Vermont,Guildhall,David Zuckerman,D,34,False
+Vermont,Guilford,Phil Scott,R,699,True
+Vermont,Guilford,David Zuckerman,D,566,False
+Vermont,Halifax,Phil Scott,R,280,True
+Vermont,Halifax,David Zuckerman,D,157,False
+Vermont,Hancock,Phil Scott,R,119,True
+Vermont,Hancock,David Zuckerman,D,49,False
+Vermont,Hardwick,Phil Scott,R,1108,True
+Vermont,Hardwick,David Zuckerman,D,397,False
+Vermont,Hartford,Phil Scott,R,3961,True
+Vermont,Hartford,David Zuckerman,D,1943,False
+Vermont,Baltimore,Phil Scott,R,101,True
+Vermont,Baltimore,David Zuckerman,D,28,False
+Vermont,Hartland,Phil Scott,R,1449,True
+Vermont,Hartland,David Zuckerman,D,622,False
+Vermont,Highgate,Phil Scott,R,1395,True
+Vermont,Highgate,David Zuckerman,D,214,False
+Vermont,Hinesburg,Phil Scott,R,2016,True
+Vermont,Hinesburg,David Zuckerman,D,989,False
+Vermont,Holland,Phil Scott,R,266,True
+Vermont,Holland,David Zuckerman,D,52,False
+Vermont,Hubbardton,Phil Scott,R,314,True
+Vermont,Hubbardton,David Zuckerman,D,91,False
+Vermont,Huntington,Phil Scott,R,921,True
+Vermont,Huntington,David Zuckerman,D,449,False
+Vermont,Hyde Park,Phil Scott,R,1282,True
+Vermont,Hyde Park,David Zuckerman,D,380,False
+Vermont,Ira,Phil Scott,R,205,True
+Vermont,Ira,David Zuckerman,D,45,False
+Vermont,Irasburg,Phil Scott,R,536,True
+Vermont,Irasburg,David Zuckerman,D,78,False
+Vermont,Isle La Motte,Phil Scott,R,258,True
+Vermont,Isle La Motte,David Zuckerman,D,76,False
+Vermont,Barnard,Phil Scott,R,447,True
+Vermont,Barnard,David Zuckerman,D,198,False
+Washington,Adams County,Loren Culp,R,4170,True
+Washington,Adams County,Jay Inslee,D,1655,False
+Washington,Asotin County,Loren Culp,R,7627,True
+Washington,Asotin County,Jay Inslee,D,4212,False
+Washington,Benton County,Loren Culp,R,65170,True
+Washington,Benton County,Jay Inslee,D,36939,False
+Washington,Chelan County,Loren Culp,R,24936,True
+Washington,Chelan County,Jay Inslee,D,17922,False
+Washington,Clallam County,Loren Culp,R,24640,True
+Washington,Clallam County,Jay Inslee,D,24366,False
+Washington,Clark County,Jay Inslee,D,138196,True
+Washington,Clark County,Loren Culp,R,132984,False
+Washington,Columbia County,Loren Culp,R,1819,True
+Washington,Columbia County,Jay Inslee,D,652,False
+Washington,Cowlitz County,Loren Culp,R,37453,True
+Washington,Cowlitz County,Jay Inslee,D,22213,False
+Washington,Douglas County,Loren Culp,R,13958,True
+Washington,Douglas County,Jay Inslee,D,7176,False
+Washington,Ferry County,Loren Culp,R,3000,True
+Washington,Ferry County,Jay Inslee,D,1345,False
+Washington,Franklin County,Loren Culp,R,19488,True
+Washington,Franklin County,Jay Inslee,D,12803,False
+Washington,Garfield County,Loren Culp,R,1118,True
+Washington,Garfield County,Jay Inslee,D,349,False
+Washington,Grant County,Loren Culp,R,26645,True
+Washington,Grant County,Jay Inslee,D,10772,False
+Washington,Grays Harbor County,Loren Culp,R,21686,True
+Washington,Grays Harbor County,Jay Inslee,D,16502,False
+Washington,Island County,Jay Inslee,D,28239,True
+Washington,Island County,Loren Culp,R,25145,False
+Washington,Jefferson County,Jay Inslee,D,16992,True
+Washington,Jefferson County,Loren Culp,R,7651,False
+Washington,King County,Jay Inslee,D,887374,True
+Washington,King County,Loren Culp,R,307022,False
+Washington,Kitsap County,Jay Inslee,D,87766,True
+Washington,Kitsap County,Loren Culp,R,69288,False
+Washington,Kittitas County,Loren Culp,R,15567,True
+Washington,Kittitas County,Jay Inslee,D,10529,False
+Washington,Klickitat County,Loren Culp,R,7735,True
+Washington,Klickitat County,Jay Inslee,D,5693,False
+Washington,Lewis County,Loren Culp,R,31306,True
+Washington,Lewis County,Jay Inslee,D,13821,False
+Washington,Lincoln County,Loren Culp,R,5450,True
+Washington,Lincoln County,Jay Inslee,D,1526,False
+Washington,Mason County,Loren Culp,R,20562,True
+Washington,Mason County,Jay Inslee,D,16502,False
+Washington,Okanogan County,Loren Culp,R,12843,True
+Washington,Okanogan County,Jay Inslee,D,8298,False
+Washington,Pacific County,Loren Culp,R,7463,True
+Washington,Pacific County,Jay Inslee,D,6514,False
+Washington,Pend Oreille County,Loren Culp,R,5959,True
+Washington,Pend Oreille County,Jay Inslee,D,2513,False
+Washington,Pierce County,Jay Inslee,D,238097,True
+Washington,Pierce County,Loren Culp,R,220904,False
+Washington,San Juan County,Jay Inslee,D,9621,True
+Washington,San Juan County,Loren Culp,R,3465,False
+Washington,Skagit County,Jay Inslee,D,36444,True
+Washington,Skagit County,Loren Culp,R,36404,False
+Washington,Skamania County,Loren Culp,R,4116,True
+Washington,Skamania County,Jay Inslee,D,3129,False
+Washington,Snohomish County,Jay Inslee,D,244876,True
+Washington,Snohomish County,Loren Culp,R,189797,False
+Washington,Spokane County,Loren Culp,R,161138,True
+Washington,Spokane County,Jay Inslee,D,131734,False
+Washington,Stevens County,Loren Culp,R,20902,True
+Washington,Stevens County,Jay Inslee,D,7393,False
+Washington,Thurston County,Jay Inslee,D,93723,True
+Washington,Thurston County,Loren Culp,R,72506,False
+Washington,Wahkiakum County,Loren Culp,R,1862,True
+Washington,Wahkiakum County,Jay Inslee,D,1102,False
+Washington,Walla Walla County,Loren Culp,R,17590,True
+Washington,Walla Walla County,Jay Inslee,D,13305,False
+Washington,Whatcom County,Jay Inslee,D,81992,True
+Washington,Whatcom County,Loren Culp,R,55544,False
+Washington,Whitman County,Jay Inslee,D,10806,True
+Washington,Whitman County,Loren Culp,R,10056,False
+Washington,Yakima County,Loren Culp,R,54097,True
+Washington,Yakima County,Jay Inslee,D,41152,False
+West Virginia,Barbour County,Jim Justice,R,4783,True
+West Virginia,Barbour County,Ben Salango,D,1419,False
+West Virginia,Berkeley County,Jim Justice,R,28841,True
+West Virginia,Berkeley County,Ben Salango,D,15253,False
+West Virginia,Boone County,Jim Justice,R,5765,True
+West Virginia,Boone County,Ben Salango,D,2829,False
+West Virginia,Braxton County,Jim Justice,R,3799,True
+West Virginia,Braxton County,Ben Salango,D,1492,False
+West Virginia,Brooke County,Jim Justice,R,6840,True
+West Virginia,Brooke County,Ben Salango,D,2964,False
+West Virginia,Cabell County,Jim Justice,R,20750,True
+West Virginia,Cabell County,Ben Salango,D,14151,False
+West Virginia,Calhoun County,Jim Justice,R,2141,True
+West Virginia,Calhoun County,Ben Salango,D,632,False
+West Virginia,Clay County,Jim Justice,R,2370,True
+West Virginia,Clay County,Ben Salango,D,734,False
+West Virginia,Doddridge County,Jim Justice,R,2330,True
+West Virginia,Doddridge County,Ben Salango,D,473,False
+West Virginia,Fayette County,Jim Justice,R,10076,True
+West Virginia,Fayette County,Ben Salango,D,5587,False
+West Virginia,Gilmer County,Jim Justice,R,1773,True
+West Virginia,Gilmer County,Ben Salango,D,623,False
+West Virginia,Grant County,Jim Justice,R,4302,True
+West Virginia,Grant County,Ben Salango,D,609,False
+West Virginia,Greenbrier County,Jim Justice,R,10973,True
+West Virginia,Greenbrier County,Ben Salango,D,4053,False
+West Virginia,Hampshire County,Jim Justice,R,7111,True
+West Virginia,Hampshire County,Ben Salango,D,1835,False
+West Virginia,Hancock County,Jim Justice,R,8995,True
+West Virginia,Hancock County,Ben Salango,D,3868,False
+West Virginia,Hardy County,Jim Justice,R,4364,True
+West Virginia,Hardy County,Ben Salango,D,1471,False
+West Virginia,Harrison County,Jim Justice,R,19074,True
+West Virginia,Harrison County,Ben Salango,D,8778,False
+West Virginia,Jackson County,Jim Justice,R,8932,True
+West Virginia,Jackson County,Ben Salango,D,3418,False
+West Virginia,Jefferson County,Jim Justice,R,14010,True
+West Virginia,Jefferson County,Ben Salango,D,10563,False
+West Virginia,Kanawha County,Jim Justice,R,41310,True
+West Virginia,Kanawha County,Ben Salango,D,37101,False
+West Virginia,Lewis County,Jim Justice,R,5407,True
+West Virginia,Lewis County,Ben Salango,D,1393,False
+West Virginia,Lincoln County,Jim Justice,R,5265,True
+West Virginia,Lincoln County,Ben Salango,D,2164,False
+West Virginia,Logan County,Jim Justice,R,9436,True
+West Virginia,Logan County,Ben Salango,D,3052,False
+West Virginia,McDowell County,Jim Justice,R,4861,True
+West Virginia,McDowell County,Ben Salango,D,1321,False
+West Virginia,Marion County,Jim Justice,R,15253,True
+West Virginia,Marion County,Ben Salango,D,8632,False
+West Virginia,Marshall County,Jim Justice,R,9324,True
+West Virginia,Marshall County,Ben Salango,D,3839,False
+West Virginia,Mason County,Jim Justice,R,7519,True
+West Virginia,Mason County,Ben Salango,D,2898,False
+West Virginia,Mercer County,Jim Justice,R,18340,True
+West Virginia,Mercer County,Ben Salango,D,5052,False
+West Virginia,Mineral County,Jim Justice,R,9535,True
+West Virginia,Mineral County,Ben Salango,D,2412,False
+West Virginia,Mingo County,Jim Justice,R,7454,True
+West Virginia,Mingo County,Ben Salango,D,2022,False
+West Virginia,Monongalia County,Jim Justice,R,19854,True
+West Virginia,Monongalia County,Ben Salango,D,19460,False
+West Virginia,Monroe County,Jim Justice,R,4764,True
+West Virginia,Monroe County,Ben Salango,D,1284,False
+West Virginia,Morgan County,Jim Justice,R,5948,True
+West Virginia,Morgan County,Ben Salango,D,1850,False
+West Virginia,Nicholas County,Jim Justice,R,7518,True
+West Virginia,Nicholas County,Ben Salango,D,2414,False
+West Virginia,Ohio County,Jim Justice,R,11775,True
+West Virginia,Ohio County,Ben Salango,D,6984,False
+West Virginia,Pendleton County,Jim Justice,R,2664,True
+West Virginia,Pendleton County,Ben Salango,D,774,False
+West Virginia,Pleasants County,Jim Justice,R,2596,True
+West Virginia,Pleasants County,Ben Salango,D,670,False
+West Virginia,Pocahontas County,Jim Justice,R,2737,True
+West Virginia,Pocahontas County,Ben Salango,D,965,False
+West Virginia,Preston County,Jim Justice,R,10023,True
+West Virginia,Preston County,Ben Salango,D,3240,False
+West Virginia,Putnam County,Jim Justice,R,17251,True
+West Virginia,Putnam County,Ben Salango,D,8831,False
+West Virginia,Raleigh County,Jim Justice,R,22259,True
+West Virginia,Raleigh County,Ben Salango,D,8962,False
+West Virginia,Randolph County,Jim Justice,R,7915,True
+West Virginia,Randolph County,Ben Salango,D,3349,False
+West Virginia,Ritchie County,Jim Justice,R,3234,True
+West Virginia,Ritchie County,Ben Salango,D,665,False
+West Virginia,Roane County,Jim Justice,R,4007,True
+West Virginia,Roane County,Ben Salango,D,1473,False
+West Virginia,Summers County,Jim Justice,R,3773,True
+West Virginia,Summers County,Ben Salango,D,1502,False
+West Virginia,Taylor County,Jim Justice,R,5058,True
+West Virginia,Taylor County,Ben Salango,D,1769,False
+West Virginia,Tucker County,Jim Justice,R,2628,True
+West Virginia,Tucker County,Ben Salango,D,944,False
+West Virginia,Tyler County,Jim Justice,R,2746,True
+West Virginia,Tyler County,Ben Salango,D,745,False
+West Virginia,Upshur County,Jim Justice,R,6951,True
+West Virginia,Upshur County,Ben Salango,D,1915,False
+West Virginia,Wayne County,Jim Justice,R,11079,True
+West Virginia,Wayne County,Ben Salango,D,4548,False
+West Virginia,Webster County,Jim Justice,R,2552,True
+West Virginia,Webster County,Ben Salango,D,659,False
+West Virginia,Wetzel County,Jim Justice,R,4559,True
+West Virginia,Wetzel County,Ben Salango,D,1727,False
+West Virginia,Wirt County,Jim Justice,R,1947,True
+West Virginia,Wirt County,Ben Salango,D,483,False
+West Virginia,Wood County,Jim Justice,R,26232,True
+West Virginia,Wood County,Ben Salango,D,9933,False
+West Virginia,Wyoming County,Jim Justice,R,6941,True
+West Virginia,Wyoming County,Ben Salango,D,1240,False
